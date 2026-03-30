@@ -1,67 +1,87 @@
 # 🏠 Real Estate Valuation & Investment Analyzer
 
-An end-to-end **Machine Learning project** that predicts property prices and provides actionable investment insights such as ROI, risk analysis, and portfolio optimization.
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io)
+[![Machine Learning](https://img.shields.io/badge/ML-Ensemble-green.svg)](https://scikit-learn.org)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+An end-to-end **Machine Learning system** that transforms real estate data into actionable investment insights, enabling smarter and data-driven property decisions.
 
 ---
 
 ## 🚀 Project Overview
 
-This project leverages machine learning algorithms to analyze real estate data and generate intelligent investment recommendations. It combines predictive modeling with financial metrics to help users make data-driven property decisions.
+This project combines **predictive modeling + investment analysis** to evaluate real estate properties.
+It not only predicts property prices but also provides **ROI estimation, risk scoring, and portfolio optimization**.
 
 ---
 
-## ✨ Key Features
+## 📸 Screenshots
 
-* 📊 Property price prediction using ML models
-* 💰 Investment score (0–100) for each property
-* 📈 ROI and rental yield estimation
-* ⚠️ Risk assessment for properties
-* 🏢 Portfolio optimization within a given budget
-* 📉 Market insights and trend analysis
+<p align="center">
+  <img src="screenshots/dashboard.png" width="800"/>
+</p>
 
----
+<p align="center">
+  <img src="screenshots/prediction.png" width="800"/>
+</p>
 
-## 🧠 Machine Learning Models Used
-
-* Linear Regression
-* Random Forest Regressor
-* Support Vector Machine (SVM)
-* Ensemble Learning (Stacking)
+<p align="center">
+  <img src="screenshots/analysis.png" width="800"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Key Results
 
-**Programming & ML**
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-
-**Visualization**
-
-* Matplotlib
-* Seaborn
-* Plotly
-
-**Deployment**
-
-* Streamlit
-
-**Tools**
-
-* Jupyter Notebook
-* VS Code
+| Metric                 | Value  |
+| ---------------------- | ------ |
+| Valuation Accuracy     | 99.7%  |
+| Prediction Error (MAE) | $910   |
+| R² Score               | 0.9972 |
+| Properties Analyzed    | 1,460  |
+| Buy Recommendations    | 43     |
 
 ---
 
-## 📁 Project Structure
+## ✨ Features
+
+### 📊 Real Estate Valuation
+
+* Predicts property prices with high accuracy
+* Identifies key value-driving factors
+* Handles multiple property attributes
+
+### 💰 Investment Analysis
+
+* Investment Score (0–100)
+* ROI potential calculation
+* Risk assessment
+* Rental yield estimation
+
+### 📈 Portfolio Optimization
+
+* Selects best properties within budget
+* Balances risk vs return
+* Maximizes investment score
+
+### 🎯 Recommendations
+
+* BUY: High potential properties
+* CONSIDER: Moderate opportunities
+* HOLD: Low priority investments
+
+---
+
+## 🏗️ Project Architecture
 
 ```
 real-estate-valuation-investment-analyzer/
 │
 ├── data/
+│   ├── raw/
+│   └── processed/
+│
 ├── notebooks/
 │   ├── 01_EDA_and_Feature_Engineering.ipynb
 │   ├── 02_Model_Building.ipynb
@@ -77,46 +97,61 @@ real-estate-valuation-investment-analyzer/
 
 ---
 
-## 📊 Results
+## 🧠 Machine Learning Models
 
-* High prediction accuracy using ensemble models
-* Strong feature correlation with property prices
-* Investment recommendations: Buy / Hold / Consider
-* Improved decision-making using scoring system
+* Random Forest
+* XGBoost
+* LightGBM
+* Ensemble (Stacking)
 
 ---
 
-## 🚀 How to Run the Project
+## 📈 Model Performance
 
-### 1. Clone the repository
+| Model         | MAE   | R² Score |
+| ------------- | ----- | -------- |
+| Ensemble      | $910  | 0.9972   |
+| Random Forest | $958  | 0.9906   |
+| XGBoost       | $3348 | 0.9899   |
+| LightGBM      | $5662 | 0.9583   |
 
-```
+---
+
+## 🎯 Key Insights
+
+* Basement size and construction year strongly influence price
+* Newer properties have higher valuation
+* Location significantly impacts investment potential
+
+---
+
+## 🛠️ Tech Stack
+
+**Machine Learning:**
+Python, Scikit-learn, XGBoost, LightGBM
+
+**Data Processing:**
+Pandas, NumPy
+
+**Visualization:**
+Matplotlib, Seaborn, Plotly
+
+**Dashboard:**
+Streamlit
+
+---
+
+## 🚀 How to Run
+
+```bash
 git clone https://github.com/priya-tiwarii/real-estate-valuation-investment-analyzer.git
 cd real-estate-valuation-investment-analyzer
-```
 
-### 2. Create a virtual environment
-
-```
 conda create -n real_estate python=3.9 -y
 conda activate real_estate
-```
 
-### 3. Install dependencies
-
-```
 pip install -r requirements.txt
-```
 
-### 4. Run notebooks (optional)
-
-* 01_EDA_and_Feature_Engineering.ipynb
-* 02_Model_Building.ipynb
-* 03_Investment_Analysis_Engine.ipynb
-
-### 5. Run the Streamlit app
-
-```
 streamlit run app/app.py
 ```
 
@@ -124,17 +159,17 @@ streamlit run app/app.py
 
 ## 📌 Dataset
 
-* House Prices Dataset (Kaggle)
-* Includes features such as location, size, year built, and more
+House Prices Dataset (Kaggle)
+Includes features such as size, location, year built, and more.
 
 ---
 
 ## 🔮 Future Improvements
 
 * Deploy on Streamlit Cloud
-* Add real-time data integration
-* Improve UI/UX of dashboard
-* Integrate advanced ML/DL models
+* Add real-time property data
+* Improve UI/UX
+* Integrate advanced models
 
 ---
 
@@ -147,4 +182,4 @@ GitHub: https://github.com/priya-tiwarii
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+If you found this project useful, consider giving it a ⭐
