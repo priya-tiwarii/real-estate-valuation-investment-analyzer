@@ -1,0 +1,1461 @@
+Property_Index,SalePrice,Investment_Score,Risk_Score,ROI_Potential,Gross_Yield,Estimated_Rent,Recommendation,Recommendation_Reason
+0,208500.0,66.2,0,30,9.6,1668.0,CONSIDER,Value-add opportunity with good potential
+1,181500.0,65.2,0,20,9.6,1452.0,CONSIDER,Value-add opportunity with good potential
+2,223500.0,66.2,0,30,9.6,1788.0,CONSIDER,Value-add opportunity with good potential
+3,140000.0,49.2,30,10,9.6,1120.0,AVOID,High risk or poor return potential
+4,250000.0,54.2,0,0,9.6,2000.0,HOLD,Monitor for better entry point
+5,143000.0,54.2,0,0,9.6,1144.0,HOLD,Monitor for better entry point
+6,307000.0,66.2,0,30,9.6,2456.0,CONSIDER,Value-add opportunity with good potential
+7,200000.0,55.2,0,0,9.6,1600.0,HOLD,Monitor for better entry point
+8,129900.0,49.2,30,10,9.600000000000001,1039.2,AVOID,High risk or poor return potential
+9,118000.0,50.2,30,10,9.6,944.0,HOLD,Monitor for better entry point
+10,129500.0,58.2,0,10,9.6,1036.0,HOLD,Monitor for better entry point
+11,345000.0,66.2,0,30,9.6,2760.0,CONSIDER,Value-add opportunity with good potential
+12,144000.0,59.2,0,10,9.6,1152.0,HOLD,Monitor for better entry point
+13,279500.0,66.2,0,30,9.6,2236.0,CONSIDER,Value-add opportunity with good potential
+14,157000.0,58.2,0,10,9.6,1256.0,HOLD,Monitor for better entry point
+15,132000.0,60.2,30,30,9.6,1056.0,CONSIDER,Value-add opportunity with good potential
+16,149000.0,70.2,0,35,9.6,1192.0,BUY,Solid investment with good risk-adjusted returns
+17,90000.0,58.2,0,10,9.6,720.0,HOLD,Monitor for better entry point
+18,159000.0,66.2,0,30,9.6,1272.0,CONSIDER,Value-add opportunity with good potential
+19,139000.0,59.2,0,10,9.6,1112.0,HOLD,Monitor for better entry point
+20,325300.0,66.2,0,30,9.600000000000001,2602.4,CONSIDER,Value-add opportunity with good potential
+21,139400.0,59.2,30,30,9.600000000000001,1115.2,HOLD,Monitor for better entry point
+22,230000.0,66.2,0,30,9.6,1840.0,CONSIDER,Value-add opportunity with good potential
+23,129900.0,59.7,15,20,9.600000000000001,1039.2,HOLD,Monitor for better entry point
+24,154000.0,69.2,0,30,9.6,1232.0,CONSIDER,Value-add opportunity with good potential
+25,256300.0,66.2,0,30,9.600000000000001,2050.4,CONSIDER,Value-add opportunity with good potential
+26,134800.0,68.2,0,30,9.6,1078.4,CONSIDER,Value-add opportunity with good potential
+27,306000.0,66.2,0,30,9.6,2448.0,CONSIDER,Value-add opportunity with good potential
+28,207500.0,65.2,0,25,9.6,1660.0,CONSIDER,Value-add opportunity with good potential
+29,68500.0,50.2,30,10,9.6,548.0,HOLD,Monitor for better entry point
+30,40000.0,42.2,50,10,9.6,320.0,AVOID,High risk or poor return potential
+31,149350.0,65.2,0,25,9.6,1194.8,CONSIDER,Value-add opportunity with good potential
+32,179900.0,66.2,0,30,9.6,1439.2,CONSIDER,Value-add opportunity with good potential
+33,165500.0,58.2,0,10,9.6,1324.0,HOLD,Monitor for better entry point
+34,277500.0,66.2,0,30,9.6,2220.0,CONSIDER,Value-add opportunity with good potential
+35,309000.0,66.2,0,30,9.6,2472.0,CONSIDER,Value-add opportunity with good potential
+36,145000.0,54.2,0,0,9.6,1160.0,HOLD,Monitor for better entry point
+37,153000.0,59.2,0,10,9.6,1224.0,HOLD,Monitor for better entry point
+38,109000.0,68.2,0,30,9.6,872.0,CONSIDER,Value-add opportunity with good potential
+39,82000.0,58.2,0,10,9.6,656.0,HOLD,Monitor for better entry point
+40,160000.0,58.2,0,10,9.6,1280.0,HOLD,Monitor for better entry point
+41,170000.0,59.2,0,10,9.6,1360.0,HOLD,Monitor for better entry point
+42,144000.0,70.2,0,35,9.6,1152.0,BUY,Solid investment with good risk-adjusted returns
+43,130250.0,61.2,0,15,9.6,1042.0,CONSIDER,Value-add opportunity with good potential
+44,141000.0,59.2,0,10,9.6,1128.0,HOLD,Monitor for better entry point
+45,319900.0,66.2,0,30,9.6,2559.2000000000003,CONSIDER,Value-add opportunity with good potential
+46,239686.0,72.2,0,45,9.6,1917.488,BUY,Solid investment with good risk-adjusted returns
+47,249700.0,66.2,0,30,9.6,1997.6000000000001,CONSIDER,Value-add opportunity with good potential
+48,113000.0,44.7,45,10,9.6,904.0,AVOID,High risk or poor return potential
+49,127000.0,68.2,0,30,9.6,1016.0,CONSIDER,Value-add opportunity with good potential
+50,177000.0,55.2,0,0,9.6,1416.0,HOLD,Monitor for better entry point
+51,114500.0,50.2,30,10,9.6,916.0,HOLD,Monitor for better entry point
+52,110000.0,58.2,0,10,9.6,880.0,HOLD,Monitor for better entry point
+53,385000.0,54.2,0,0,9.6,3080.0,HOLD,Monitor for better entry point
+54,130000.0,58.2,0,10,9.6,1040.0,HOLD,Monitor for better entry point
+55,180500.0,58.2,0,10,9.6,1444.0,HOLD,Monitor for better entry point
+56,172500.0,49.7,15,0,9.6,1380.0,AVOID,High risk or poor return potential
+57,196500.0,66.2,0,30,9.6,1572.0,CONSIDER,Value-add opportunity with good potential
+58,438780.0,72.2,0,45,9.600000000000001,3510.2400000000002,BUY,Solid investment with good risk-adjusted returns
+59,124900.0,64.2,0,20,9.600000000000001,999.2,CONSIDER,Value-add opportunity with good potential
+60,158000.0,66.2,0,30,9.6,1264.0,CONSIDER,Value-add opportunity with good potential
+61,101000.0,59.2,30,30,9.6,808.0,HOLD,Monitor for better entry point
+62,202500.0,66.2,0,30,9.6,1620.0,CONSIDER,Value-add opportunity with good potential
+63,140000.0,50.2,30,10,9.6,1120.0,HOLD,Monitor for better entry point
+64,219500.0,54.2,0,0,9.6,1756.0,HOLD,Monitor for better entry point
+65,317000.0,66.2,0,30,9.6,2536.0,CONSIDER,Value-add opportunity with good potential
+66,180000.0,54.2,0,0,9.6,1440.0,HOLD,Monitor for better entry point
+67,226000.0,66.2,0,30,9.6,1808.0,CONSIDER,Value-add opportunity with good potential
+68,80000.0,54.7,15,10,9.6,640.0,HOLD,Monitor for better entry point
+69,225000.0,57.2,0,10,9.6,1800.0,HOLD,Monitor for better entry point
+70,244000.0,55.2,0,0,9.6,1952.0,HOLD,Monitor for better entry point
+71,129500.0,55.2,0,0,9.6,1036.0,HOLD,Monitor for better entry point
+72,185000.0,54.2,0,0,9.6,1480.0,HOLD,Monitor for better entry point
+73,144900.0,68.2,0,30,9.600000000000001,1159.2,CONSIDER,Value-add opportunity with good potential
+74,107400.0,50.2,30,10,9.600000000000001,859.2,HOLD,Monitor for better entry point
+75,91000.0,49.7,15,0,9.6,728.0,AVOID,High risk or poor return potential
+76,135750.0,68.2,0,30,9.6,1086.0,CONSIDER,Value-add opportunity with good potential
+77,127000.0,58.2,0,10,9.6,1016.0,HOLD,Monitor for better entry point
+78,136500.0,58.2,0,10,9.6,1092.0,HOLD,Monitor for better entry point
+79,110000.0,50.2,30,10,9.6,880.0,HOLD,Monitor for better entry point
+80,193500.0,59.2,0,10,9.6,1548.0,HOLD,Monitor for better entry point
+81,153500.0,49.7,15,0,9.6,1228.0,AVOID,High risk or poor return potential
+82,245000.0,66.2,0,30,9.6,1960.0,CONSIDER,Value-add opportunity with good potential
+83,126500.0,58.2,0,10,9.6,1012.0,HOLD,Monitor for better entry point
+84,168500.0,54.2,0,0,9.6,1348.0,HOLD,Monitor for better entry point
+85,260000.0,54.2,0,0,9.6,2080.0,HOLD,Monitor for better entry point
+86,174000.0,66.2,0,30,9.6,1392.0,CONSIDER,Value-add opportunity with good potential
+87,164500.0,61.7,15,30,9.6,1316.0,CONSIDER,Value-add opportunity with good potential
+88,85000.0,32.7,75,10,9.6,680.0,AVOID,High risk or poor return potential
+89,123600.0,54.2,0,0,9.6,988.8000000000001,HOLD,Monitor for better entry point
+90,109900.0,58.2,0,10,9.600000000000001,879.2,HOLD,Monitor for better entry point
+91,98600.0,48.7,25,10,9.6,788.8000000000001,AVOID,High risk or poor return potential
+92,163500.0,59.2,30,30,9.6,1308.0,HOLD,Monitor for better entry point
+93,133900.0,44.2,50,10,9.600000000000001,1071.2,AVOID,High risk or poor return potential
+94,204750.0,54.2,0,0,9.6,1638.0,HOLD,Monitor for better entry point
+95,185000.0,65.2,0,20,9.6,1480.0,CONSIDER,Value-add opportunity with good potential
+96,214000.0,54.2,0,0,9.6,1712.0,HOLD,Monitor for better entry point
+97,94750.0,58.2,0,10,9.6,758.0,HOLD,Monitor for better entry point
+98,83000.0,49.2,30,10,9.6,664.0,AVOID,High risk or poor return potential
+99,128950.0,58.2,0,10,9.6,1031.6,HOLD,Monitor for better entry point
+100,205000.0,64.2,0,20,9.6,1640.0,CONSIDER,Value-add opportunity with good potential
+101,178000.0,54.2,0,0,9.6,1424.0,HOLD,Monitor for better entry point
+102,118964.0,54.2,0,0,9.6,951.712,HOLD,Monitor for better entry point
+103,198900.0,66.2,0,30,9.6,1591.2,CONSIDER,Value-add opportunity with good potential
+104,169500.0,48.2,30,10,9.6,1356.0,AVOID,High risk or poor return potential
+105,250000.0,66.2,0,30,9.6,2000.0,CONSIDER,Value-add opportunity with good potential
+106,100000.0,59.2,30,30,9.6,800.0,HOLD,Monitor for better entry point
+107,115000.0,58.2,0,10,9.6,920.0,HOLD,Monitor for better entry point
+108,115000.0,59.2,30,30,9.6,920.0,HOLD,Monitor for better entry point
+109,190000.0,55.2,0,0,9.6,1520.0,HOLD,Monitor for better entry point
+110,136900.0,57.2,0,10,9.600000000000001,1095.2,HOLD,Monitor for better entry point
+111,180000.0,54.2,0,0,9.6,1440.0,HOLD,Monitor for better entry point
+112,383970.0,66.2,0,30,9.6,3071.76,CONSIDER,Value-add opportunity with good potential
+113,217000.0,58.2,0,10,9.6,1736.0,HOLD,Monitor for better entry point
+114,259500.0,69.2,0,30,9.6,2076.0,CONSIDER,Value-add opportunity with good potential
+115,176000.0,49.7,15,0,9.6,1408.0,AVOID,High risk or poor return potential
+116,139000.0,58.2,0,10,9.6,1112.0,HOLD,Monitor for better entry point
+117,155000.0,66.2,0,30,9.6,1240.0,CONSIDER,Value-add opportunity with good potential
+118,320000.0,54.2,0,0,9.6,2560.0,HOLD,Monitor for better entry point
+119,163990.0,66.2,0,30,9.6,1311.92,CONSIDER,Value-add opportunity with good potential
+120,180000.0,64.2,0,25,9.6,1440.0,CONSIDER,Value-add opportunity with good potential
+121,100000.0,49.2,30,10,9.6,800.0,AVOID,High risk or poor return potential
+122,136000.0,68.2,0,30,9.6,1088.0,CONSIDER,Value-add opportunity with good potential
+123,153900.0,54.2,0,0,9.600000000000001,1231.2,HOLD,Monitor for better entry point
+124,181000.0,60.2,0,15,9.6,1448.0,CONSIDER,Value-add opportunity with good potential
+125,84500.0,60.2,30,30,9.6,676.0,CONSIDER,Value-add opportunity with good potential
+126,128000.0,49.7,15,0,9.6,1024.0,AVOID,High risk or poor return potential
+127,87000.0,54.7,45,30,9.6,696.0,HOLD,Monitor for better entry point
+128,155000.0,58.2,0,10,9.6,1240.0,HOLD,Monitor for better entry point
+129,150000.0,68.2,0,30,9.6,1200.0,CONSIDER,Value-add opportunity with good potential
+130,226000.0,59.2,0,10,9.6,1808.0,HOLD,Monitor for better entry point
+131,244000.0,54.2,0,0,9.6,1952.0,HOLD,Monitor for better entry point
+132,150750.0,59.2,0,10,9.6,1206.0,HOLD,Monitor for better entry point
+133,220000.0,66.2,0,30,9.6,1760.0,CONSIDER,Value-add opportunity with good potential
+134,180000.0,59.2,0,10,9.6,1440.0,HOLD,Monitor for better entry point
+135,174000.0,55.2,0,0,9.6,1392.0,HOLD,Monitor for better entry point
+136,143000.0,58.2,0,10,9.6,1144.0,HOLD,Monitor for better entry point
+137,171000.0,54.2,0,0,9.6,1368.0,HOLD,Monitor for better entry point
+138,230000.0,54.2,0,0,9.6,1840.0,HOLD,Monitor for better entry point
+139,231500.0,54.2,0,0,9.6,1852.0,HOLD,Monitor for better entry point
+140,115000.0,54.2,0,0,9.6,920.0,HOLD,Monitor for better entry point
+141,260000.0,66.2,0,30,9.6,2080.0,CONSIDER,Value-add opportunity with good potential
+142,166000.0,57.2,0,10,9.6,1328.0,HOLD,Monitor for better entry point
+143,204000.0,54.2,0,0,9.6,1632.0,HOLD,Monitor for better entry point
+144,125000.0,58.2,0,10,9.6,1000.0,HOLD,Monitor for better entry point
+145,130000.0,61.7,15,30,9.6,1040.0,CONSIDER,Value-add opportunity with good potential
+146,105000.0,59.2,30,30,9.6,840.0,HOLD,Monitor for better entry point
+147,222500.0,72.2,0,45,9.6,1780.0,BUY,Solid investment with good risk-adjusted returns
+148,141000.0,66.2,0,30,9.6,1128.0,CONSIDER,Value-add opportunity with good potential
+149,115000.0,48.2,30,10,9.6,920.0,AVOID,High risk or poor return potential
+150,122000.0,55.2,0,0,9.6,976.0,HOLD,Monitor for better entry point
+151,372402.0,66.2,0,30,9.6,2979.216,CONSIDER,Value-add opportunity with good potential
+152,190000.0,60.2,0,15,9.6,1520.0,CONSIDER,Value-add opportunity with good potential
+153,235000.0,68.2,0,30,9.6,1880.0,CONSIDER,Value-add opportunity with good potential
+154,125000.0,49.2,30,10,9.6,1000.0,AVOID,High risk or poor return potential
+155,79000.0,49.2,30,10,9.6,632.0,AVOID,High risk or poor return potential
+156,109500.0,68.2,0,30,9.6,876.0,CONSIDER,Value-add opportunity with good potential
+157,269500.0,66.2,0,30,9.6,2156.0,CONSIDER,Value-add opportunity with good potential
+158,254900.0,66.2,0,30,9.6,2039.2,CONSIDER,Value-add opportunity with good potential
+159,320000.0,66.2,0,30,9.6,2560.0,CONSIDER,Value-add opportunity with good potential
+160,162500.0,61.2,0,15,9.6,1300.0,CONSIDER,Value-add opportunity with good potential
+161,412500.0,66.2,0,30,9.6,3300.0,CONSIDER,Value-add opportunity with good potential
+162,220000.0,66.2,0,30,9.6,1760.0,CONSIDER,Value-add opportunity with good potential
+163,103200.0,59.2,0,10,9.6,825.6,HOLD,Monitor for better entry point
+164,152000.0,59.2,30,30,9.6,1216.0,HOLD,Monitor for better entry point
+165,127500.0,68.2,0,30,9.6,1020.0,CONSIDER,Value-add opportunity with good potential
+166,190000.0,58.2,0,10,9.6,1520.0,HOLD,Monitor for better entry point
+167,325624.0,66.2,0,30,9.6,2604.992,CONSIDER,Value-add opportunity with good potential
+168,183500.0,66.2,0,30,9.6,1468.0,CONSIDER,Value-add opportunity with good potential
+169,228000.0,55.2,0,0,9.6,1824.0,HOLD,Monitor for better entry point
+170,128500.0,59.2,0,10,9.6,1028.0,HOLD,Monitor for better entry point
+171,215000.0,58.2,0,10,9.6,1720.0,HOLD,Monitor for better entry point
+172,239000.0,64.2,0,20,9.6,1912.0,CONSIDER,Value-add opportunity with good potential
+173,163000.0,58.2,0,10,9.6,1304.0,HOLD,Monitor for better entry point
+174,184000.0,54.2,0,0,9.6,1472.0,HOLD,Monitor for better entry point
+175,243000.0,68.2,0,30,9.6,1944.0,CONSIDER,Value-add opportunity with good potential
+176,211000.0,54.2,0,0,9.6,1688.0,HOLD,Monitor for better entry point
+177,172500.0,58.2,0,10,9.6,1380.0,HOLD,Monitor for better entry point
+178,501837.0,72.2,0,45,9.6,4014.696,BUY,Solid investment with good risk-adjusted returns
+179,100000.0,50.2,30,10,9.6,800.0,HOLD,Monitor for better entry point
+180,177000.0,49.7,15,0,9.6,1416.0,AVOID,High risk or poor return potential
+181,200100.0,50.2,30,10,9.6,1600.8,HOLD,Monitor for better entry point
+182,120000.0,59.2,0,10,9.6,960.0,HOLD,Monitor for better entry point
+183,200000.0,66.2,0,30,9.6,1600.0,CONSIDER,Value-add opportunity with good potential
+184,127000.0,60.2,30,30,9.6,1016.0,CONSIDER,Value-add opportunity with good potential
+185,475000.0,61.2,30,30,9.6,3800.0,CONSIDER,Value-add opportunity with good potential
+186,173000.0,60.2,0,15,9.6,1384.0,CONSIDER,Value-add opportunity with good potential
+187,135000.0,59.2,30,30,9.6,1080.0,HOLD,Monitor for better entry point
+188,153337.0,54.2,0,0,9.6,1226.696,HOLD,Monitor for better entry point
+189,286000.0,61.7,15,30,9.6,2288.0,CONSIDER,Value-add opportunity with good potential
+190,315000.0,60.2,30,30,9.6,2520.0,CONSIDER,Value-add opportunity with good potential
+191,184000.0,72.2,0,35,9.6,1472.0,BUY,Solid investment with good risk-adjusted returns
+192,192000.0,54.2,0,0,9.6,1536.0,HOLD,Monitor for better entry point
+193,130000.0,61.7,15,30,9.6,1040.0,CONSIDER,Value-add opportunity with good potential
+194,127000.0,64.2,0,20,9.6,1016.0,CONSIDER,Value-add opportunity with good potential
+195,148500.0,50.7,15,0,9.6,1188.0,HOLD,Monitor for better entry point
+196,311872.0,66.2,0,30,9.6,2494.976,CONSIDER,Value-add opportunity with good potential
+197,235000.0,48.2,30,10,9.6,1880.0,AVOID,High risk or poor return potential
+198,104000.0,50.2,30,10,9.6,832.0,HOLD,Monitor for better entry point
+199,274900.0,66.2,0,30,9.6,2199.2000000000003,CONSIDER,Value-add opportunity with good potential
+200,140000.0,66.2,0,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+201,171500.0,55.2,0,0,9.6,1372.0,HOLD,Monitor for better entry point
+202,112000.0,50.2,30,10,9.6,896.0,HOLD,Monitor for better entry point
+203,149000.0,61.7,15,30,9.6,1192.0,CONSIDER,Value-add opportunity with good potential
+204,110000.0,63.7,15,30,9.6,880.0,CONSIDER,Value-add opportunity with good potential
+205,180500.0,54.2,0,0,9.6,1444.0,HOLD,Monitor for better entry point
+206,143900.0,64.2,0,25,9.600000000000001,1151.2,CONSIDER,Value-add opportunity with good potential
+207,141000.0,58.2,0,10,9.6,1128.0,HOLD,Monitor for better entry point
+208,277000.0,54.2,0,0,9.6,2216.0,HOLD,Monitor for better entry point
+209,145000.0,68.2,0,30,9.6,1160.0,CONSIDER,Value-add opportunity with good potential
+210,98000.0,50.2,30,10,9.6,784.0,HOLD,Monitor for better entry point
+211,186000.0,66.2,0,30,9.6,1488.0,CONSIDER,Value-add opportunity with good potential
+212,252678.0,66.2,0,30,9.6,2021.424,CONSIDER,Value-add opportunity with good potential
+213,156000.0,60.2,0,15,9.6,1248.0,CONSIDER,Value-add opportunity with good potential
+214,161750.0,64.2,0,20,9.6,1294.0,CONSIDER,Value-add opportunity with good potential
+215,134450.0,59.2,0,10,9.6,1075.6,HOLD,Monitor for better entry point
+216,210000.0,66.2,0,30,9.6,1680.0,CONSIDER,Value-add opportunity with good potential
+217,107000.0,48.2,30,10,9.6,856.0,AVOID,High risk or poor return potential
+218,311500.0,61.2,30,30,9.6,2492.0,CONSIDER,Value-add opportunity with good potential
+219,167240.0,61.7,15,30,9.6,1337.92,CONSIDER,Value-add opportunity with good potential
+220,204900.0,66.2,0,30,9.6,1639.2,CONSIDER,Value-add opportunity with good potential
+221,200000.0,66.2,0,30,9.6,1600.0,CONSIDER,Value-add opportunity with good potential
+222,179900.0,55.2,0,0,9.6,1439.2,HOLD,Monitor for better entry point
+223,97000.0,55.2,0,0,9.6,776.0,HOLD,Monitor for better entry point
+224,386250.0,66.2,0,30,9.6,3090.0,CONSIDER,Value-add opportunity with good potential
+225,112000.0,49.7,15,0,9.6,896.0,AVOID,High risk or poor return potential
+226,290000.0,54.2,0,0,9.6,2320.0,HOLD,Monitor for better entry point
+227,106000.0,50.7,15,0,9.6,848.0,HOLD,Monitor for better entry point
+228,125000.0,58.2,0,10,9.6,1000.0,HOLD,Monitor for better entry point
+229,192500.0,61.7,15,30,9.6,1540.0,CONSIDER,Value-add opportunity with good potential
+230,148000.0,59.2,0,10,9.6,1184.0,HOLD,Monitor for better entry point
+231,403000.0,54.2,0,0,9.6,3224.0,HOLD,Monitor for better entry point
+232,94500.0,49.7,15,0,9.6,756.0,AVOID,High risk or poor return potential
+233,128200.0,55.2,0,0,9.6,1025.6,HOLD,Monitor for better entry point
+234,216500.0,66.2,0,30,9.6,1732.0,CONSIDER,Value-add opportunity with good potential
+235,89500.0,40.2,40,0,9.6,716.0,AVOID,High risk or poor return potential
+236,185500.0,66.2,0,30,9.6,1484.0,CONSIDER,Value-add opportunity with good potential
+237,194500.0,70.2,0,35,9.6,1556.0,BUY,Solid investment with good risk-adjusted returns
+238,318000.0,66.2,0,30,9.6,2544.0,CONSIDER,Value-add opportunity with good potential
+239,113000.0,57.2,0,10,9.6,904.0,HOLD,Monitor for better entry point
+240,262500.0,66.2,0,30,9.6,2100.0,CONSIDER,Value-add opportunity with good potential
+241,110500.0,65.7,15,30,9.6,884.0,CONSIDER,Value-add opportunity with good potential
+242,79000.0,48.2,30,10,9.6,632.0,AVOID,High risk or poor return potential
+243,120000.0,55.2,0,0,9.6,960.0,HOLD,Monitor for better entry point
+244,205000.0,54.2,0,0,9.6,1640.0,HOLD,Monitor for better entry point
+245,241500.0,54.2,0,0,9.6,1932.0,HOLD,Monitor for better entry point
+246,137000.0,60.2,30,30,9.6,1096.0,CONSIDER,Value-add opportunity with good potential
+247,140000.0,58.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+248,180000.0,66.2,0,30,9.6,1440.0,CONSIDER,Value-add opportunity with good potential
+249,277000.0,74.2,0,45,9.6,2216.0,BUY,Solid investment with good risk-adjusted returns
+250,76500.0,47.7,25,10,9.6,612.0,AVOID,High risk or poor return potential
+251,235000.0,61.7,15,30,9.6,1880.0,CONSIDER,Value-add opportunity with good potential
+252,173000.0,66.2,0,30,9.6,1384.0,CONSIDER,Value-add opportunity with good potential
+253,158000.0,68.2,0,30,9.6,1264.0,CONSIDER,Value-add opportunity with good potential
+254,145000.0,59.2,0,10,9.6,1160.0,HOLD,Monitor for better entry point
+255,230000.0,54.2,0,0,9.6,1840.0,HOLD,Monitor for better entry point
+256,207500.0,66.2,0,30,9.6,1660.0,CONSIDER,Value-add opportunity with good potential
+257,220000.0,66.2,0,30,9.6,1760.0,CONSIDER,Value-add opportunity with good potential
+258,231500.0,66.2,0,30,9.6,1852.0,CONSIDER,Value-add opportunity with good potential
+259,97000.0,58.2,0,10,9.6,776.0,HOLD,Monitor for better entry point
+260,176000.0,58.2,0,10,9.6,1408.0,HOLD,Monitor for better entry point
+261,276000.0,66.2,0,30,9.6,2208.0,CONSIDER,Value-add opportunity with good potential
+262,151000.0,64.2,0,20,9.6,1208.0,CONSIDER,Value-add opportunity with good potential
+263,130000.0,59.2,30,30,9.6,1040.0,HOLD,Monitor for better entry point
+264,73000.0,49.2,30,10,9.6,584.0,AVOID,High risk or poor return potential
+265,175500.0,55.2,0,0,9.6,1404.0,HOLD,Monitor for better entry point
+266,185000.0,54.2,0,0,9.6,1480.0,HOLD,Monitor for better entry point
+267,179500.0,60.2,30,30,9.6,1436.0,CONSIDER,Value-add opportunity with good potential
+268,120500.0,59.2,0,10,9.6,964.0,HOLD,Monitor for better entry point
+269,148000.0,64.2,0,20,9.6,1184.0,CONSIDER,Value-add opportunity with good potential
+270,266000.0,66.2,0,30,9.6,2128.0,CONSIDER,Value-add opportunity with good potential
+271,241500.0,74.2,0,45,9.6,1932.0,BUY,Solid investment with good risk-adjusted returns
+272,290000.0,70.2,0,35,9.6,2320.0,BUY,Solid investment with good risk-adjusted returns
+273,139000.0,59.2,0,10,9.6,1112.0,HOLD,Monitor for better entry point
+274,124500.0,64.2,0,20,9.6,996.0,CONSIDER,Value-add opportunity with good potential
+275,205000.0,59.2,30,30,9.6,1640.0,HOLD,Monitor for better entry point
+276,201000.0,66.2,0,30,9.6,1608.0,CONSIDER,Value-add opportunity with good potential
+277,141000.0,58.2,0,10,9.6,1128.0,HOLD,Monitor for better entry point
+278,415298.0,66.2,0,30,9.6,3322.384,CONSIDER,Value-add opportunity with good potential
+279,192000.0,54.2,0,0,9.6,1536.0,HOLD,Monitor for better entry point
+280,228500.0,55.2,0,0,9.6,1828.0,HOLD,Monitor for better entry point
+281,185000.0,66.2,0,30,9.6,1480.0,CONSIDER,Value-add opportunity with good potential
+282,207500.0,66.2,0,30,9.6,1660.0,CONSIDER,Value-add opportunity with good potential
+283,244600.0,66.2,0,30,9.6,1956.8,CONSIDER,Value-add opportunity with good potential
+284,179200.0,54.2,0,0,9.6,1433.6000000000001,HOLD,Monitor for better entry point
+285,164700.0,61.7,15,30,9.6,1317.6000000000001,CONSIDER,Value-add opportunity with good potential
+286,159000.0,68.2,0,30,9.6,1272.0,CONSIDER,Value-add opportunity with good potential
+287,88000.0,53.2,0,0,9.6,704.0,HOLD,Monitor for better entry point
+288,122000.0,58.2,0,10,9.6,976.0,HOLD,Monitor for better entry point
+289,153575.0,59.2,30,30,9.6,1228.6000000000001,HOLD,Monitor for better entry point
+290,233230.0,66.2,0,30,9.6,1865.8400000000001,CONSIDER,Value-add opportunity with good potential
+291,135900.0,50.2,30,10,9.600000000000001,1087.2,HOLD,Monitor for better entry point
+292,131000.0,57.2,0,10,9.6,1048.0,HOLD,Monitor for better entry point
+293,235000.0,64.2,0,20,9.6,1880.0,CONSIDER,Value-add opportunity with good potential
+294,167000.0,58.2,0,10,9.6,1336.0,HOLD,Monitor for better entry point
+295,142500.0,61.2,0,15,9.6,1140.0,CONSIDER,Value-add opportunity with good potential
+296,152000.0,58.2,0,10,9.6,1216.0,HOLD,Monitor for better entry point
+297,239000.0,54.2,0,0,9.6,1912.0,HOLD,Monitor for better entry point
+298,175000.0,59.2,0,10,9.6,1400.0,HOLD,Monitor for better entry point
+299,158500.0,69.2,0,30,9.6,1268.0,CONSIDER,Value-add opportunity with good potential
+300,157000.0,58.2,0,10,9.6,1256.0,HOLD,Monitor for better entry point
+301,267000.0,54.2,0,0,9.6,2136.0,HOLD,Monitor for better entry point
+302,205000.0,66.2,0,30,9.6,1640.0,CONSIDER,Value-add opportunity with good potential
+303,149900.0,64.2,0,20,9.600000000000001,1199.2,CONSIDER,Value-add opportunity with good potential
+304,295000.0,61.2,30,30,9.6,2360.0,CONSIDER,Value-add opportunity with good potential
+305,305900.0,66.2,0,30,9.6,2447.2000000000003,CONSIDER,Value-add opportunity with good potential
+306,225000.0,54.2,0,0,9.6,1800.0,HOLD,Monitor for better entry point
+307,89500.0,59.2,30,30,9.6,716.0,HOLD,Monitor for better entry point
+308,82500.0,58.2,0,10,9.6,660.0,HOLD,Monitor for better entry point
+309,360000.0,66.2,0,30,9.6,2880.0,CONSIDER,Value-add opportunity with good potential
+310,165600.0,54.2,0,0,9.6,1324.8,HOLD,Monitor for better entry point
+311,132000.0,59.2,0,10,9.6,1056.0,HOLD,Monitor for better entry point
+312,119900.0,59.2,30,30,9.600000000000001,959.2,HOLD,Monitor for better entry point
+313,375000.0,58.2,0,10,9.6,3000.0,HOLD,Monitor for better entry point
+314,178000.0,59.2,30,30,9.6,1424.0,HOLD,Monitor for better entry point
+315,188500.0,66.2,0,30,9.6,1508.0,CONSIDER,Value-add opportunity with good potential
+316,260000.0,64.2,0,20,9.6,2080.0,CONSIDER,Value-add opportunity with good potential
+317,270000.0,66.2,0,30,9.6,2160.0,CONSIDER,Value-add opportunity with good potential
+318,260000.0,54.2,0,0,9.6,2080.0,HOLD,Monitor for better entry point
+319,187500.0,54.2,0,0,9.6,1500.0,HOLD,Monitor for better entry point
+320,342643.0,66.2,0,30,9.6,2741.1440000000002,CONSIDER,Value-add opportunity with good potential
+321,354000.0,66.2,0,30,9.6,2832.0,CONSIDER,Value-add opportunity with good potential
+322,301000.0,54.2,0,0,9.6,2408.0,HOLD,Monitor for better entry point
+323,126175.0,69.2,0,30,9.6,1009.4,CONSIDER,Value-add opportunity with good potential
+324,242000.0,68.2,0,30,9.6,1936.0,CONSIDER,Value-add opportunity with good potential
+325,87000.0,59.2,0,10,9.6,696.0,HOLD,Monitor for better entry point
+326,324000.0,60.2,0,15,9.6,2592.0,CONSIDER,Value-add opportunity with good potential
+327,145250.0,58.2,0,10,9.6,1162.0,HOLD,Monitor for better entry point
+328,214500.0,50.2,30,10,9.6,1716.0,HOLD,Monitor for better entry point
+329,78000.0,49.2,30,10,9.6,624.0,AVOID,High risk or poor return potential
+330,119000.0,57.2,0,10,9.6,952.0,HOLD,Monitor for better entry point
+331,139000.0,59.2,0,10,9.6,1112.0,HOLD,Monitor for better entry point
+332,284000.0,66.2,0,30,9.6,2272.0,CONSIDER,Value-add opportunity with good potential
+333,207000.0,66.2,0,30,9.6,1656.0,CONSIDER,Value-add opportunity with good potential
+334,192000.0,54.2,0,0,9.6,1536.0,HOLD,Monitor for better entry point
+335,228950.0,59.2,0,10,9.6,1831.6000000000001,HOLD,Monitor for better entry point
+336,377426.0,66.2,0,30,9.6,3019.408,CONSIDER,Value-add opportunity with good potential
+337,214000.0,66.2,0,30,9.6,1712.0,CONSIDER,Value-add opportunity with good potential
+338,202500.0,64.2,0,20,9.6,1620.0,CONSIDER,Value-add opportunity with good potential
+339,155000.0,68.2,0,30,9.6,1240.0,CONSIDER,Value-add opportunity with good potential
+340,202900.0,66.2,0,30,9.6,1623.2,CONSIDER,Value-add opportunity with good potential
+341,82000.0,57.2,0,10,9.6,656.0,HOLD,Monitor for better entry point
+342,87500.0,57.2,0,10,9.6,700.0,HOLD,Monitor for better entry point
+343,266000.0,66.2,0,30,9.6,2128.0,CONSIDER,Value-add opportunity with good potential
+344,85000.0,40.2,40,0,9.6,680.0,AVOID,High risk or poor return potential
+345,140200.0,49.2,30,10,9.6,1121.6000000000001,AVOID,High risk or poor return potential
+346,151500.0,75.2,0,45,9.6,1212.0,BUY,Solid investment with good risk-adjusted returns
+347,157500.0,58.2,0,10,9.6,1260.0,HOLD,Monitor for better entry point
+348,154000.0,61.7,15,30,9.6,1232.0,CONSIDER,Value-add opportunity with good potential
+349,437154.0,66.2,0,30,9.6,3497.232,CONSIDER,Value-add opportunity with good potential
+350,318061.0,66.2,0,30,9.6,2544.488,CONSIDER,Value-add opportunity with good potential
+351,190000.0,54.2,0,0,9.6,1520.0,HOLD,Monitor for better entry point
+352,95000.0,59.2,0,10,9.6,760.0,HOLD,Monitor for better entry point
+353,105900.0,60.2,30,30,9.600000000000001,847.2,CONSIDER,Value-add opportunity with good potential
+354,140000.0,58.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+355,177500.0,54.2,0,0,9.6,1420.0,HOLD,Monitor for better entry point
+356,173000.0,55.2,0,0,9.6,1384.0,HOLD,Monitor for better entry point
+357,134000.0,49.7,15,0,9.6,1072.0,AVOID,High risk or poor return potential
+358,130000.0,57.2,0,10,9.6,1040.0,HOLD,Monitor for better entry point
+359,280000.0,60.2,0,15,9.6,2240.0,CONSIDER,Value-add opportunity with good potential
+360,156000.0,61.2,0,15,9.6,1248.0,CONSIDER,Value-add opportunity with good potential
+361,145000.0,58.2,0,10,9.6,1160.0,HOLD,Monitor for better entry point
+362,198500.0,66.2,0,30,9.6,1588.0,CONSIDER,Value-add opportunity with good potential
+363,118000.0,60.7,15,20,9.6,944.0,CONSIDER,Value-add opportunity with good potential
+364,190000.0,54.2,0,0,9.6,1520.0,HOLD,Monitor for better entry point
+365,147000.0,59.2,30,30,9.6,1176.0,HOLD,Monitor for better entry point
+366,159000.0,58.2,0,10,9.6,1272.0,HOLD,Monitor for better entry point
+367,165000.0,58.2,0,10,9.6,1320.0,HOLD,Monitor for better entry point
+368,132000.0,59.2,0,10,9.6,1056.0,HOLD,Monitor for better entry point
+369,162000.0,68.2,0,30,9.6,1296.0,CONSIDER,Value-add opportunity with good potential
+370,172400.0,54.2,0,0,9.6,1379.2,HOLD,Monitor for better entry point
+371,134432.0,57.2,0,10,9.600000000000001,1075.4560000000001,HOLD,Monitor for better entry point
+372,125000.0,54.2,0,0,9.6,1000.0,HOLD,Monitor for better entry point
+373,123000.0,59.2,0,10,9.6,984.0,HOLD,Monitor for better entry point
+374,219500.0,66.2,0,30,9.6,1756.0,CONSIDER,Value-add opportunity with good potential
+375,61000.0,37.7,55,10,9.6,488.0,AVOID,High risk or poor return potential
+376,148000.0,60.2,0,15,9.6,1184.0,CONSIDER,Value-add opportunity with good potential
+377,340000.0,66.2,0,30,9.6,2720.0,CONSIDER,Value-add opportunity with good potential
+378,394432.0,55.7,25,30,9.6,3155.456,HOLD,Monitor for better entry point
+379,179000.0,54.2,0,0,9.6,1432.0,HOLD,Monitor for better entry point
+380,127000.0,50.2,30,10,9.6,1016.0,HOLD,Monitor for better entry point
+381,187750.0,66.2,0,30,9.6,1502.0,CONSIDER,Value-add opportunity with good potential
+382,213500.0,66.2,0,30,9.6,1708.0,CONSIDER,Value-add opportunity with good potential
+383,76000.0,39.7,55,10,9.6,608.0,AVOID,High risk or poor return potential
+384,240000.0,54.2,0,0,9.6,1920.0,HOLD,Monitor for better entry point
+385,192000.0,61.7,15,30,9.6,1536.0,CONSIDER,Value-add opportunity with good potential
+386,81000.0,39.7,55,10,9.6,648.0,AVOID,High risk or poor return potential
+387,125000.0,55.2,0,0,9.6,1000.0,HOLD,Monitor for better entry point
+388,191000.0,60.2,0,15,9.6,1528.0,CONSIDER,Value-add opportunity with good potential
+389,426000.0,66.2,0,30,9.6,3408.0,CONSIDER,Value-add opportunity with good potential
+390,119000.0,60.2,30,30,9.6,952.0,CONSIDER,Value-add opportunity with good potential
+391,215000.0,72.2,0,45,9.6,1720.0,BUY,Solid investment with good risk-adjusted returns
+392,106500.0,68.2,0,30,9.6,852.0,CONSIDER,Value-add opportunity with good potential
+393,100000.0,58.2,0,10,9.6,800.0,HOLD,Monitor for better entry point
+394,109000.0,59.2,0,10,9.6,872.0,HOLD,Monitor for better entry point
+395,129000.0,59.2,0,10,9.6,1032.0,HOLD,Monitor for better entry point
+396,123000.0,54.2,0,0,9.6,984.0,HOLD,Monitor for better entry point
+397,169500.0,58.2,0,10,9.6,1356.0,HOLD,Monitor for better entry point
+398,67000.0,38.7,55,10,9.6,536.0,AVOID,High risk or poor return potential
+399,241000.0,66.2,0,30,9.6,1928.0,CONSIDER,Value-add opportunity with good potential
+400,245500.0,54.2,0,0,9.6,1964.0,HOLD,Monitor for better entry point
+401,164990.0,66.2,0,30,9.6,1319.92,CONSIDER,Value-add opportunity with good potential
+402,108000.0,69.2,0,30,9.6,864.0,CONSIDER,Value-add opportunity with good potential
+403,258000.0,54.2,0,0,9.6,2064.0,HOLD,Monitor for better entry point
+404,168000.0,54.2,0,0,9.6,1344.0,HOLD,Monitor for better entry point
+405,150000.0,53.2,0,0,9.6,1200.0,HOLD,Monitor for better entry point
+406,115000.0,49.2,30,10,9.6,920.0,AVOID,High risk or poor return potential
+407,177000.0,59.2,30,30,9.6,1416.0,HOLD,Monitor for better entry point
+408,280000.0,66.2,0,30,9.6,2240.0,CONSIDER,Value-add opportunity with good potential
+409,339750.0,66.2,0,30,9.6,2718.0,CONSIDER,Value-add opportunity with good potential
+410,60000.0,48.7,25,10,9.6,480.0,AVOID,High risk or poor return potential
+411,145000.0,58.2,0,10,9.6,1160.0,HOLD,Monitor for better entry point
+412,222000.0,61.7,15,30,9.6,1776.0,CONSIDER,Value-add opportunity with good potential
+413,115000.0,50.2,30,10,9.6,920.0,HOLD,Monitor for better entry point
+414,228000.0,60.2,0,15,9.6,1824.0,CONSIDER,Value-add opportunity with good potential
+415,181134.0,66.2,0,30,9.6,1449.0720000000001,CONSIDER,Value-add opportunity with good potential
+416,149500.0,64.2,0,20,9.6,1196.0,CONSIDER,Value-add opportunity with good potential
+417,239000.0,50.2,30,10,9.6,1912.0,HOLD,Monitor for better entry point
+418,126000.0,59.2,0,10,9.6,1008.0,HOLD,Monitor for better entry point
+419,142000.0,59.2,0,10,9.6,1136.0,HOLD,Monitor for better entry point
+420,206300.0,54.2,0,0,9.600000000000001,1650.4,HOLD,Monitor for better entry point
+421,215000.0,64.2,0,20,9.6,1720.0,CONSIDER,Value-add opportunity with good potential
+422,113000.0,58.2,0,10,9.6,904.0,HOLD,Monitor for better entry point
+423,315000.0,54.2,0,0,9.6,2520.0,HOLD,Monitor for better entry point
+424,139000.0,58.2,0,10,9.6,1112.0,HOLD,Monitor for better entry point
+425,135000.0,64.7,15,30,9.6,1080.0,CONSIDER,Value-add opportunity with good potential
+426,275000.0,54.2,0,0,9.6,2200.0,HOLD,Monitor for better entry point
+427,109008.0,59.2,0,10,9.6,872.064,HOLD,Monitor for better entry point
+428,195400.0,66.2,0,30,9.6,1563.2,CONSIDER,Value-add opportunity with good potential
+429,175000.0,54.2,0,0,9.6,1400.0,HOLD,Monitor for better entry point
+430,85400.0,49.7,15,0,9.600000000000001,683.2,AVOID,High risk or poor return potential
+431,79900.0,59.2,30,30,9.6,639.2,HOLD,Monitor for better entry point
+432,122500.0,49.7,15,0,9.6,980.0,AVOID,High risk or poor return potential
+433,181000.0,54.2,0,0,9.6,1448.0,HOLD,Monitor for better entry point
+434,81000.0,59.7,15,20,9.6,648.0,HOLD,Monitor for better entry point
+435,212000.0,61.2,0,15,9.6,1696.0,CONSIDER,Value-add opportunity with good potential
+436,116000.0,55.7,45,30,9.6,928.0,HOLD,Monitor for better entry point
+437,119000.0,59.2,30,30,9.6,952.0,HOLD,Monitor for better entry point
+438,90350.0,45.7,45,10,9.6,722.8000000000001,AVOID,High risk or poor return potential
+439,110000.0,60.2,30,30,9.6,880.0,CONSIDER,Value-add opportunity with good potential
+440,555000.0,66.2,0,30,9.6,4440.0,CONSIDER,Value-add opportunity with good potential
+441,118000.0,57.2,0,10,9.6,944.0,HOLD,Monitor for better entry point
+442,162900.0,59.2,30,30,9.6,1303.2,HOLD,Monitor for better entry point
+443,172500.0,61.7,15,30,9.6,1380.0,CONSIDER,Value-add opportunity with good potential
+444,210000.0,54.2,0,0,9.6,1680.0,HOLD,Monitor for better entry point
+445,127500.0,58.2,0,10,9.6,1020.0,HOLD,Monitor for better entry point
+446,190000.0,59.2,0,10,9.6,1520.0,HOLD,Monitor for better entry point
+447,199900.0,54.2,0,0,9.6,1599.2,HOLD,Monitor for better entry point
+448,119500.0,50.2,30,10,9.6,956.0,HOLD,Monitor for better entry point
+449,120000.0,68.2,0,30,9.6,960.0,CONSIDER,Value-add opportunity with good potential
+450,110000.0,60.2,30,30,9.6,880.0,CONSIDER,Value-add opportunity with good potential
+451,280000.0,54.2,0,0,9.6,2240.0,HOLD,Monitor for better entry point
+452,204000.0,54.2,0,0,9.6,1632.0,HOLD,Monitor for better entry point
+453,210000.0,66.2,0,30,9.6,1680.0,CONSIDER,Value-add opportunity with good potential
+454,188000.0,54.2,0,0,9.6,1504.0,HOLD,Monitor for better entry point
+455,175500.0,55.2,0,0,9.6,1404.0,HOLD,Monitor for better entry point
+456,98000.0,44.7,45,10,9.6,784.0,AVOID,High risk or poor return potential
+457,256000.0,65.2,0,25,9.6,2048.0,CONSIDER,Value-add opportunity with good potential
+458,161000.0,59.2,30,30,9.6,1288.0,HOLD,Monitor for better entry point
+459,110000.0,57.2,0,10,9.6,880.0,HOLD,Monitor for better entry point
+460,263435.0,66.2,0,30,9.6,2107.48,CONSIDER,Value-add opportunity with good potential
+461,155000.0,61.2,30,30,9.6,1240.0,CONSIDER,Value-add opportunity with good potential
+462,62383.0,58.2,0,10,9.6,499.064,HOLD,Monitor for better entry point
+463,188700.0,59.2,30,30,9.6,1509.6000000000001,HOLD,Monitor for better entry point
+464,124000.0,54.2,0,0,9.6,992.0,HOLD,Monitor for better entry point
+465,178740.0,61.7,15,30,9.6,1429.92,CONSIDER,Value-add opportunity with good potential
+466,167000.0,54.2,0,0,9.6,1336.0,HOLD,Monitor for better entry point
+467,146500.0,68.2,0,30,9.6,1172.0,CONSIDER,Value-add opportunity with good potential
+468,250000.0,66.2,0,30,9.6,2000.0,CONSIDER,Value-add opportunity with good potential
+469,187000.0,54.2,0,0,9.6,1496.0,HOLD,Monitor for better entry point
+470,212000.0,54.2,0,0,9.6,1696.0,HOLD,Monitor for better entry point
+471,190000.0,55.2,0,0,9.6,1520.0,HOLD,Monitor for better entry point
+472,148000.0,61.7,15,30,9.6,1184.0,CONSIDER,Value-add opportunity with good potential
+473,440000.0,66.2,0,30,9.6,3520.0,CONSIDER,Value-add opportunity with good potential
+474,251000.0,54.2,0,0,9.6,2008.0,HOLD,Monitor for better entry point
+475,132500.0,59.2,0,10,9.6,1060.0,HOLD,Monitor for better entry point
+476,208900.0,54.2,0,0,9.6,1671.2,HOLD,Monitor for better entry point
+477,380000.0,66.2,0,30,9.6,3040.0,CONSIDER,Value-add opportunity with good potential
+478,297000.0,66.2,0,30,9.6,2376.0,CONSIDER,Value-add opportunity with good potential
+479,89471.0,59.2,30,30,9.6,715.768,HOLD,Monitor for better entry point
+480,326000.0,66.2,0,30,9.6,2608.0,CONSIDER,Value-add opportunity with good potential
+481,374000.0,66.2,0,30,9.6,2992.0,CONSIDER,Value-add opportunity with good potential
+482,155000.0,55.7,45,30,9.6,1240.0,HOLD,Monitor for better entry point
+483,164000.0,49.7,15,0,9.6,1312.0,AVOID,High risk or poor return potential
+484,132500.0,68.2,0,30,9.6,1060.0,CONSIDER,Value-add opportunity with good potential
+485,147000.0,68.2,0,30,9.6,1176.0,CONSIDER,Value-add opportunity with good potential
+486,156000.0,68.2,0,30,9.6,1248.0,CONSIDER,Value-add opportunity with good potential
+487,175000.0,55.2,0,0,9.6,1400.0,HOLD,Monitor for better entry point
+488,160000.0,48.2,30,10,9.6,1280.0,AVOID,High risk or poor return potential
+489,86000.0,60.7,15,20,9.6,688.0,CONSIDER,Value-add opportunity with good potential
+490,115000.0,50.7,15,0,9.6,920.0,HOLD,Monitor for better entry point
+491,133000.0,68.2,0,30,9.6,1064.0,CONSIDER,Value-add opportunity with good potential
+492,172785.0,66.2,0,30,9.6,1382.28,CONSIDER,Value-add opportunity with good potential
+493,155000.0,59.2,0,10,9.6,1240.0,HOLD,Monitor for better entry point
+494,91300.0,60.2,30,30,9.6,730.4,CONSIDER,Value-add opportunity with good potential
+495,34900.0,43.2,50,10,9.6,279.2,AVOID,High risk or poor return potential
+496,430000.0,54.2,0,0,9.6,3440.0,HOLD,Monitor for better entry point
+497,184000.0,50.2,30,10,9.6,1472.0,HOLD,Monitor for better entry point
+498,130000.0,68.2,0,30,9.6,1040.0,CONSIDER,Value-add opportunity with good potential
+499,120000.0,68.2,0,30,9.6,960.0,CONSIDER,Value-add opportunity with good potential
+500,113000.0,49.7,15,0,9.6,904.0,AVOID,High risk or poor return potential
+501,226700.0,66.2,0,30,9.6,1813.6000000000001,CONSIDER,Value-add opportunity with good potential
+502,140000.0,68.2,0,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+503,289000.0,69.2,0,30,9.6,2312.0,CONSIDER,Value-add opportunity with good potential
+504,147000.0,49.7,15,0,9.6,1176.0,AVOID,High risk or poor return potential
+505,124500.0,58.2,0,10,9.6,996.0,HOLD,Monitor for better entry point
+506,215000.0,54.2,0,0,9.6,1720.0,HOLD,Monitor for better entry point
+507,208300.0,66.2,0,30,9.600000000000001,1666.4,CONSIDER,Value-add opportunity with good potential
+508,161000.0,61.2,30,30,9.6,1288.0,CONSIDER,Value-add opportunity with good potential
+509,124500.0,59.2,0,10,9.6,996.0,HOLD,Monitor for better entry point
+510,164900.0,68.2,0,30,9.6,1319.2,CONSIDER,Value-add opportunity with good potential
+511,202665.0,66.2,0,30,9.6,1621.32,CONSIDER,Value-add opportunity with good potential
+512,129900.0,58.2,0,10,9.600000000000001,1039.2,HOLD,Monitor for better entry point
+513,134000.0,54.2,0,0,9.6,1072.0,HOLD,Monitor for better entry point
+514,96500.0,49.2,30,10,9.6,772.0,AVOID,High risk or poor return potential
+515,402861.0,66.2,0,30,9.6,3222.888,CONSIDER,Value-add opportunity with good potential
+516,158000.0,55.2,0,0,9.6,1264.0,HOLD,Monitor for better entry point
+517,265000.0,54.2,0,0,9.6,2120.0,HOLD,Monitor for better entry point
+518,211000.0,60.2,0,15,9.6,1688.0,CONSIDER,Value-add opportunity with good potential
+519,234000.0,61.2,30,30,9.6,1872.0,CONSIDER,Value-add opportunity with good potential
+520,106250.0,59.2,30,30,9.6,850.0,HOLD,Monitor for better entry point
+521,150000.0,59.2,0,10,9.6,1200.0,HOLD,Monitor for better entry point
+522,159000.0,68.2,0,30,9.6,1272.0,CONSIDER,Value-add opportunity with good potential
+523,184750.0,66.2,0,30,9.6,1478.0,CONSIDER,Value-add opportunity with good potential
+524,315750.0,54.2,0,0,9.6,2526.0,HOLD,Monitor for better entry point
+525,176000.0,66.2,0,30,9.6,1408.0,CONSIDER,Value-add opportunity with good potential
+526,132000.0,68.2,0,30,9.6,1056.0,CONSIDER,Value-add opportunity with good potential
+527,446261.0,66.2,0,30,9.600000000000001,3570.088,CONSIDER,Value-add opportunity with good potential
+528,86000.0,59.2,30,30,9.6,688.0,HOLD,Monitor for better entry point
+529,200624.0,54.7,25,25,9.6,1604.992,HOLD,Monitor for better entry point
+530,175000.0,54.2,0,0,9.6,1400.0,HOLD,Monitor for better entry point
+531,128000.0,60.2,30,30,9.6,1024.0,CONSIDER,Value-add opportunity with good potential
+532,107500.0,68.2,0,30,9.6,860.0,CONSIDER,Value-add opportunity with good potential
+533,39300.0,48.7,25,10,9.6,314.40000000000003,AVOID,High risk or poor return potential
+534,178000.0,66.2,0,30,9.6,1424.0,CONSIDER,Value-add opportunity with good potential
+535,107500.0,59.2,30,30,9.6,860.0,HOLD,Monitor for better entry point
+536,188000.0,60.2,0,15,9.6,1504.0,CONSIDER,Value-add opportunity with good potential
+537,111250.0,54.2,0,0,9.6,890.0,HOLD,Monitor for better entry point
+538,158000.0,58.2,0,10,9.6,1264.0,HOLD,Monitor for better entry point
+539,272000.0,66.2,0,30,9.6,2176.0,CONSIDER,Value-add opportunity with good potential
+540,315000.0,66.2,0,30,9.6,2520.0,CONSIDER,Value-add opportunity with good potential
+541,248000.0,54.2,0,0,9.6,1984.0,HOLD,Monitor for better entry point
+542,213250.0,54.2,0,0,9.6,1706.0,HOLD,Monitor for better entry point
+543,133000.0,49.7,15,0,9.6,1064.0,AVOID,High risk or poor return potential
+544,179665.0,66.2,0,30,9.6,1437.32,CONSIDER,Value-add opportunity with good potential
+545,229000.0,54.2,0,0,9.6,1832.0,HOLD,Monitor for better entry point
+546,210000.0,59.2,30,30,9.6,1680.0,HOLD,Monitor for better entry point
+547,129500.0,64.2,0,20,9.6,1036.0,CONSIDER,Value-add opportunity with good potential
+548,125000.0,68.2,0,30,9.6,1000.0,CONSIDER,Value-add opportunity with good potential
+549,263000.0,66.2,0,30,9.6,2104.0,CONSIDER,Value-add opportunity with good potential
+550,140000.0,50.7,15,0,9.6,1120.0,HOLD,Monitor for better entry point
+551,112500.0,59.2,0,10,9.6,900.0,HOLD,Monitor for better entry point
+552,255500.0,66.2,0,30,9.6,2044.0,CONSIDER,Value-add opportunity with good potential
+553,108000.0,58.2,0,10,9.6,864.0,HOLD,Monitor for better entry point
+554,284000.0,66.2,0,30,9.6,2272.0,CONSIDER,Value-add opportunity with good potential
+555,113000.0,50.2,30,10,9.6,904.0,HOLD,Monitor for better entry point
+556,141000.0,58.2,0,10,9.6,1128.0,HOLD,Monitor for better entry point
+557,108000.0,44.2,50,10,9.6,864.0,AVOID,High risk or poor return potential
+558,175000.0,54.2,0,0,9.6,1400.0,HOLD,Monitor for better entry point
+559,234000.0,61.7,15,30,9.6,1872.0,CONSIDER,Value-add opportunity with good potential
+560,121500.0,59.2,0,10,9.6,972.0,HOLD,Monitor for better entry point
+561,170000.0,54.2,0,0,9.6,1360.0,HOLD,Monitor for better entry point
+562,108000.0,59.2,0,10,9.6,864.0,HOLD,Monitor for better entry point
+563,185000.0,59.2,30,30,9.6,1480.0,HOLD,Monitor for better entry point
+564,268000.0,60.2,0,15,9.6,2144.0,CONSIDER,Value-add opportunity with good potential
+565,128000.0,48.2,30,10,9.6,1024.0,AVOID,High risk or poor return potential
+566,325000.0,66.2,0,30,9.6,2600.0,CONSIDER,Value-add opportunity with good potential
+567,214000.0,66.2,0,30,9.6,1712.0,CONSIDER,Value-add opportunity with good potential
+568,316600.0,65.2,0,20,9.6,2532.8,CONSIDER,Value-add opportunity with good potential
+569,135960.0,54.2,0,0,9.6,1087.68,HOLD,Monitor for better entry point
+570,142600.0,58.2,0,10,9.6,1140.8,HOLD,Monitor for better entry point
+571,120000.0,59.2,0,10,9.6,960.0,HOLD,Monitor for better entry point
+572,224500.0,66.2,0,30,9.6,1796.0,CONSIDER,Value-add opportunity with good potential
+573,170000.0,54.2,0,0,9.6,1360.0,HOLD,Monitor for better entry point
+574,139000.0,64.2,0,20,9.6,1112.0,CONSIDER,Value-add opportunity with good potential
+575,118500.0,58.2,0,10,9.6,948.0,HOLD,Monitor for better entry point
+576,145000.0,59.2,30,30,9.6,1160.0,HOLD,Monitor for better entry point
+577,164500.0,59.2,0,10,9.6,1316.0,HOLD,Monitor for better entry point
+578,146000.0,61.7,15,30,9.6,1168.0,CONSIDER,Value-add opportunity with good potential
+579,131500.0,58.2,0,10,9.6,1052.0,HOLD,Monitor for better entry point
+580,181900.0,65.2,0,25,9.6,1455.2,CONSIDER,Value-add opportunity with good potential
+581,253293.0,66.2,0,30,9.6,2026.344,CONSIDER,Value-add opportunity with good potential
+582,118500.0,54.2,0,0,9.6,948.0,HOLD,Monitor for better entry point
+583,325000.0,61.2,30,30,9.6,2600.0,CONSIDER,Value-add opportunity with good potential
+584,133000.0,59.2,30,30,9.6,1064.0,HOLD,Monitor for better entry point
+585,369900.0,66.2,0,30,9.6,2959.2000000000003,CONSIDER,Value-add opportunity with good potential
+586,130000.0,59.2,30,30,9.6,1040.0,HOLD,Monitor for better entry point
+587,137000.0,55.2,0,0,9.6,1096.0,HOLD,Monitor for better entry point
+588,143000.0,69.2,0,30,9.6,1144.0,CONSIDER,Value-add opportunity with good potential
+589,79500.0,50.2,30,10,9.6,636.0,HOLD,Monitor for better entry point
+590,185900.0,66.2,0,30,9.6,1487.2,CONSIDER,Value-add opportunity with good potential
+591,451950.0,66.2,0,30,9.6,3615.6,CONSIDER,Value-add opportunity with good potential
+592,138000.0,65.2,0,20,9.6,1104.0,CONSIDER,Value-add opportunity with good potential
+593,140000.0,61.7,15,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+594,110000.0,55.2,0,0,9.6,880.0,HOLD,Monitor for better entry point
+595,319000.0,66.2,0,30,9.6,2552.0,CONSIDER,Value-add opportunity with good potential
+596,114504.0,54.7,45,30,9.6,916.032,HOLD,Monitor for better entry point
+597,194201.0,61.7,15,30,9.6,1553.608,CONSIDER,Value-add opportunity with good potential
+598,217500.0,55.2,0,0,9.6,1740.0,HOLD,Monitor for better entry point
+599,151000.0,50.7,15,0,9.6,1208.0,HOLD,Monitor for better entry point
+600,275000.0,66.2,0,30,9.6,2200.0,CONSIDER,Value-add opportunity with good potential
+601,141000.0,50.2,30,10,9.6,1128.0,HOLD,Monitor for better entry point
+602,220000.0,54.2,0,0,9.6,1760.0,HOLD,Monitor for better entry point
+603,151000.0,61.7,15,30,9.6,1208.0,CONSIDER,Value-add opportunity with good potential
+604,221000.0,66.2,0,30,9.6,1768.0,CONSIDER,Value-add opportunity with good potential
+605,205000.0,59.2,0,10,9.6,1640.0,HOLD,Monitor for better entry point
+606,152000.0,54.2,0,0,9.6,1216.0,HOLD,Monitor for better entry point
+607,225000.0,69.2,0,30,9.6,1800.0,CONSIDER,Value-add opportunity with good potential
+608,359100.0,50.2,30,10,9.600000000000001,2872.8,HOLD,Monitor for better entry point
+609,118500.0,58.2,0,10,9.6,948.0,HOLD,Monitor for better entry point
+610,313000.0,54.2,0,0,9.6,2504.0,HOLD,Monitor for better entry point
+611,148000.0,55.2,0,0,9.6,1184.0,HOLD,Monitor for better entry point
+612,261500.0,66.2,0,30,9.6,2092.0,CONSIDER,Value-add opportunity with good potential
+613,147000.0,66.2,0,30,9.6,1176.0,CONSIDER,Value-add opportunity with good potential
+614,75500.0,50.7,15,0,9.6,604.0,HOLD,Monitor for better entry point
+615,137500.0,68.2,0,30,9.6,1100.0,CONSIDER,Value-add opportunity with good potential
+616,183200.0,66.2,0,30,9.6,1465.6000000000001,CONSIDER,Value-add opportunity with good potential
+617,105500.0,59.2,0,10,9.6,844.0,HOLD,Monitor for better entry point
+618,314813.0,66.2,0,30,9.6,2518.504,CONSIDER,Value-add opportunity with good potential
+619,305000.0,66.2,0,30,9.6,2440.0,CONSIDER,Value-add opportunity with good potential
+620,67000.0,39.7,55,10,9.6,536.0,AVOID,High risk or poor return potential
+621,240000.0,64.2,0,20,9.6,1920.0,CONSIDER,Value-add opportunity with good potential
+622,135000.0,55.2,0,0,9.6,1080.0,HOLD,Monitor for better entry point
+623,168500.0,49.7,15,0,9.6,1348.0,AVOID,High risk or poor return potential
+624,165150.0,54.2,0,0,9.6,1321.2,HOLD,Monitor for better entry point
+625,160000.0,59.2,0,10,9.6,1280.0,HOLD,Monitor for better entry point
+626,139900.0,58.2,0,10,9.600000000000001,1119.2,HOLD,Monitor for better entry point
+627,153000.0,59.2,0,10,9.6,1224.0,HOLD,Monitor for better entry point
+628,135000.0,58.2,0,10,9.6,1080.0,HOLD,Monitor for better entry point
+629,168500.0,58.2,0,10,9.6,1348.0,HOLD,Monitor for better entry point
+630,124000.0,50.2,30,10,9.6,992.0,HOLD,Monitor for better entry point
+631,209500.0,61.7,15,30,9.6,1676.0,CONSIDER,Value-add opportunity with good potential
+632,82500.0,54.2,0,0,9.6,660.0,HOLD,Monitor for better entry point
+633,139400.0,68.2,0,30,9.600000000000001,1115.2,CONSIDER,Value-add opportunity with good potential
+634,144000.0,54.2,0,0,9.6,1152.0,HOLD,Monitor for better entry point
+635,200000.0,59.2,30,30,9.6,1600.0,HOLD,Monitor for better entry point
+636,60000.0,39.7,55,10,9.6,480.0,AVOID,High risk or poor return potential
+637,93000.0,57.2,0,10,9.6,744.0,HOLD,Monitor for better entry point
+638,85000.0,59.2,30,30,9.6,680.0,HOLD,Monitor for better entry point
+639,264561.0,61.7,15,30,9.6,2116.488,CONSIDER,Value-add opportunity with good potential
+640,274000.0,66.2,0,30,9.6,2192.0,CONSIDER,Value-add opportunity with good potential
+641,226000.0,66.2,0,30,9.6,1808.0,CONSIDER,Value-add opportunity with good potential
+642,345000.0,64.2,0,20,9.6,2760.0,CONSIDER,Value-add opportunity with good potential
+643,152000.0,58.2,0,10,9.6,1216.0,HOLD,Monitor for better entry point
+644,370878.0,66.2,0,30,9.6,2967.024,CONSIDER,Value-add opportunity with good potential
+645,143250.0,54.2,0,0,9.6,1146.0,HOLD,Monitor for better entry point
+646,98300.0,58.2,0,10,9.6,786.4,HOLD,Monitor for better entry point
+647,155000.0,58.2,0,10,9.6,1240.0,HOLD,Monitor for better entry point
+648,155000.0,58.2,0,10,9.6,1240.0,HOLD,Monitor for better entry point
+649,84500.0,50.7,15,0,9.6,676.0,HOLD,Monitor for better entry point
+650,205950.0,67.2,0,30,9.6,1647.6000000000001,CONSIDER,Value-add opportunity with good potential
+651,108000.0,58.2,0,10,9.6,864.0,HOLD,Monitor for better entry point
+652,191000.0,54.2,0,0,9.6,1528.0,HOLD,Monitor for better entry point
+653,135000.0,59.2,30,30,9.6,1080.0,HOLD,Monitor for better entry point
+654,350000.0,55.2,0,0,9.6,2800.0,HOLD,Monitor for better entry point
+655,88000.0,49.7,15,0,9.6,704.0,AVOID,High risk or poor return potential
+656,145500.0,68.2,0,30,9.6,1164.0,CONSIDER,Value-add opportunity with good potential
+657,149000.0,50.2,30,10,9.6,1192.0,HOLD,Monitor for better entry point
+658,97500.0,58.2,0,10,9.6,780.0,HOLD,Monitor for better entry point
+659,167000.0,68.2,0,30,9.6,1336.0,CONSIDER,Value-add opportunity with good potential
+660,197900.0,70.2,0,35,9.6,1583.2,BUY,Solid investment with good risk-adjusted returns
+661,402000.0,70.2,0,35,9.6,3216.0,BUY,Solid investment with good risk-adjusted returns
+662,110000.0,48.7,25,10,9.6,880.0,AVOID,High risk or poor return potential
+663,137500.0,54.2,0,0,9.6,1100.0,HOLD,Monitor for better entry point
+664,423000.0,72.2,0,45,9.6,3384.0,BUY,Solid investment with good risk-adjusted returns
+665,230500.0,54.2,0,0,9.6,1844.0,HOLD,Monitor for better entry point
+666,129000.0,58.2,0,10,9.6,1032.0,HOLD,Monitor for better entry point
+667,193500.0,54.2,0,0,9.6,1548.0,HOLD,Monitor for better entry point
+668,168000.0,59.2,0,10,9.6,1344.0,HOLD,Monitor for better entry point
+669,137500.0,49.2,30,10,9.6,1100.0,AVOID,High risk or poor return potential
+670,173500.0,66.2,0,30,9.6,1388.0,CONSIDER,Value-add opportunity with good potential
+671,103600.0,50.2,30,10,9.6,828.8000000000001,HOLD,Monitor for better entry point
+672,165000.0,55.2,0,0,9.6,1320.0,HOLD,Monitor for better entry point
+673,257500.0,68.2,0,30,9.6,2060.0,CONSIDER,Value-add opportunity with good potential
+674,140000.0,59.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+675,148500.0,50.7,15,0,9.6,1188.0,HOLD,Monitor for better entry point
+676,87000.0,38.7,55,10,9.6,696.0,AVOID,High risk or poor return potential
+677,109500.0,60.2,30,30,9.6,876.0,CONSIDER,Value-add opportunity with good potential
+678,372500.0,66.2,0,30,9.6,2980.0,CONSIDER,Value-add opportunity with good potential
+679,128500.0,58.2,0,10,9.6,1028.0,HOLD,Monitor for better entry point
+680,143000.0,54.2,0,0,9.6,1144.0,HOLD,Monitor for better entry point
+681,159434.0,44.7,45,10,9.6,1275.472,AVOID,High risk or poor return potential
+682,173000.0,49.7,15,0,9.6,1384.0,AVOID,High risk or poor return potential
+683,285000.0,66.2,0,30,9.6,2280.0,CONSIDER,Value-add opportunity with good potential
+684,221000.0,60.2,0,15,9.6,1768.0,CONSIDER,Value-add opportunity with good potential
+685,207500.0,60.2,0,15,9.6,1660.0,CONSIDER,Value-add opportunity with good potential
+686,227875.0,67.2,0,30,9.6,1823.0,CONSIDER,Value-add opportunity with good potential
+687,148800.0,66.2,0,30,9.6,1190.4,CONSIDER,Value-add opportunity with good potential
+688,392000.0,67.2,0,30,9.6,3136.0,CONSIDER,Value-add opportunity with good potential
+689,194700.0,66.2,0,30,9.6,1557.6000000000001,CONSIDER,Value-add opportunity with good potential
+690,141000.0,61.7,15,30,9.6,1128.0,CONSIDER,Value-add opportunity with good potential
+691,755000.0,55.2,0,0,9.6,6040.0,HOLD,Monitor for better entry point
+692,335000.0,54.2,0,0,9.6,2680.0,HOLD,Monitor for better entry point
+693,108480.0,50.2,30,10,9.6,867.84,HOLD,Monitor for better entry point
+694,141500.0,50.2,30,10,9.6,1132.0,HOLD,Monitor for better entry point
+695,176000.0,55.2,0,0,9.6,1408.0,HOLD,Monitor for better entry point
+696,89000.0,59.2,30,30,9.6,712.0,HOLD,Monitor for better entry point
+697,123500.0,68.2,0,30,9.6,988.0,CONSIDER,Value-add opportunity with good potential
+698,138500.0,69.2,0,30,9.6,1108.0,CONSIDER,Value-add opportunity with good potential
+699,196000.0,61.7,15,30,9.6,1568.0,CONSIDER,Value-add opportunity with good potential
+700,312500.0,66.2,0,30,9.6,2500.0,CONSIDER,Value-add opportunity with good potential
+701,140000.0,58.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+702,361919.0,66.2,0,30,9.6,2895.352,CONSIDER,Value-add opportunity with good potential
+703,140000.0,61.2,30,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+704,213000.0,66.2,0,30,9.6,1704.0,CONSIDER,Value-add opportunity with good potential
+705,55000.0,49.2,30,10,9.6,440.0,AVOID,High risk or poor return potential
+706,302000.0,60.2,0,15,9.6,2416.0,CONSIDER,Value-add opportunity with good potential
+707,254000.0,66.2,0,30,9.6,2032.0,CONSIDER,Value-add opportunity with good potential
+708,179540.0,66.2,0,30,9.6,1436.32,CONSIDER,Value-add opportunity with good potential
+709,109900.0,68.2,0,30,9.600000000000001,879.2,CONSIDER,Value-add opportunity with good potential
+710,52000.0,45.7,45,10,9.6,416.0,AVOID,High risk or poor return potential
+711,102776.0,53.2,50,30,9.6,822.208,HOLD,Monitor for better entry point
+712,189000.0,49.7,15,0,9.6,1512.0,AVOID,High risk or poor return potential
+713,129000.0,54.2,0,0,9.6,1032.0,HOLD,Monitor for better entry point
+714,130500.0,71.2,0,35,9.6,1044.0,BUY,Solid investment with good risk-adjusted returns
+715,165000.0,54.2,0,0,9.6,1320.0,HOLD,Monitor for better entry point
+716,159500.0,60.2,30,30,9.6,1276.0,CONSIDER,Value-add opportunity with good potential
+717,157000.0,55.2,0,0,9.6,1256.0,HOLD,Monitor for better entry point
+718,341000.0,54.2,0,0,9.6,2728.0,HOLD,Monitor for better entry point
+719,128500.0,59.2,0,10,9.6,1028.0,HOLD,Monitor for better entry point
+720,275000.0,60.2,0,15,9.6,2200.0,CONSIDER,Value-add opportunity with good potential
+721,143000.0,61.7,15,30,9.6,1144.0,CONSIDER,Value-add opportunity with good potential
+722,124500.0,64.2,0,20,9.6,996.0,CONSIDER,Value-add opportunity with good potential
+723,135000.0,59.2,0,10,9.6,1080.0,HOLD,Monitor for better entry point
+724,320000.0,66.2,0,30,9.6,2560.0,CONSIDER,Value-add opportunity with good potential
+725,120500.0,55.2,0,0,9.6,964.0,HOLD,Monitor for better entry point
+726,222000.0,66.2,0,20,9.6,1776.0,CONSIDER,Value-add opportunity with good potential
+727,194500.0,66.2,0,30,9.6,1556.0,CONSIDER,Value-add opportunity with good potential
+728,110000.0,58.2,0,10,9.6,880.0,HOLD,Monitor for better entry point
+729,103000.0,49.2,30,10,9.6,824.0,AVOID,High risk or poor return potential
+730,236500.0,54.2,0,0,9.6,1892.0,HOLD,Monitor for better entry point
+731,187500.0,66.2,0,30,9.6,1500.0,CONSIDER,Value-add opportunity with good potential
+732,222500.0,54.2,0,0,9.6,1780.0,HOLD,Monitor for better entry point
+733,131400.0,59.2,0,10,9.600000000000001,1051.2,HOLD,Monitor for better entry point
+734,108000.0,58.2,0,10,9.6,864.0,HOLD,Monitor for better entry point
+735,163000.0,59.2,30,30,9.6,1304.0,HOLD,Monitor for better entry point
+736,93500.0,57.2,0,10,9.6,748.0,HOLD,Monitor for better entry point
+737,239900.0,72.2,0,45,9.6,1919.2,BUY,Solid investment with good risk-adjusted returns
+738,179000.0,54.2,0,0,9.6,1432.0,HOLD,Monitor for better entry point
+739,190000.0,66.2,0,30,9.6,1520.0,CONSIDER,Value-add opportunity with good potential
+740,132000.0,59.2,30,30,9.6,1056.0,HOLD,Monitor for better entry point
+741,142000.0,69.2,0,30,9.6,1136.0,CONSIDER,Value-add opportunity with good potential
+742,179000.0,54.2,0,0,9.6,1432.0,HOLD,Monitor for better entry point
+743,175000.0,59.2,0,10,9.6,1400.0,HOLD,Monitor for better entry point
+744,180000.0,54.2,0,0,9.6,1440.0,HOLD,Monitor for better entry point
+745,299800.0,66.2,0,20,9.600000000000001,2398.4,CONSIDER,Value-add opportunity with good potential
+746,236000.0,54.2,0,0,9.6,1888.0,HOLD,Monitor for better entry point
+747,265979.0,59.2,30,30,9.6,2127.832,HOLD,Monitor for better entry point
+748,260400.0,54.2,0,0,9.6,2083.2,HOLD,Monitor for better entry point
+749,98000.0,48.7,25,10,9.6,784.0,AVOID,High risk or poor return potential
+750,96500.0,59.2,30,30,9.6,772.0,HOLD,Monitor for better entry point
+751,162000.0,66.2,0,30,9.6,1296.0,CONSIDER,Value-add opportunity with good potential
+752,217000.0,54.2,0,0,9.6,1736.0,HOLD,Monitor for better entry point
+753,275500.0,66.2,0,30,9.6,2204.0,CONSIDER,Value-add opportunity with good potential
+754,156000.0,69.2,0,30,9.6,1248.0,CONSIDER,Value-add opportunity with good potential
+755,172500.0,49.7,15,0,9.6,1380.0,AVOID,High risk or poor return potential
+756,212000.0,66.2,0,30,9.6,1696.0,CONSIDER,Value-add opportunity with good potential
+757,158900.0,60.2,0,15,9.600000000000001,1271.2,CONSIDER,Value-add opportunity with good potential
+758,179400.0,49.7,15,0,9.6,1435.2,AVOID,High risk or poor return potential
+759,290000.0,54.2,0,0,9.6,2320.0,HOLD,Monitor for better entry point
+760,127500.0,59.2,0,10,9.6,1020.0,HOLD,Monitor for better entry point
+761,100000.0,49.2,30,10,9.6,800.0,AVOID,High risk or poor return potential
+762,215200.0,66.2,0,30,9.6,1721.6000000000001,CONSIDER,Value-add opportunity with good potential
+763,337000.0,54.2,0,0,9.6,2696.0,HOLD,Monitor for better entry point
+764,270000.0,60.2,0,15,9.6,2160.0,CONSIDER,Value-add opportunity with good potential
+765,264132.0,66.2,0,30,9.6,2113.056,CONSIDER,Value-add opportunity with good potential
+766,196500.0,54.2,0,0,9.6,1572.0,HOLD,Monitor for better entry point
+767,160000.0,68.2,0,30,9.6,1280.0,CONSIDER,Value-add opportunity with good potential
+768,216837.0,66.2,0,30,9.600000000000001,1734.6960000000001,CONSIDER,Value-add opportunity with good potential
+769,538000.0,72.2,0,45,9.6,4304.0,BUY,Solid investment with good risk-adjusted returns
+770,134900.0,60.2,0,15,9.600000000000001,1079.2,CONSIDER,Value-add opportunity with good potential
+771,102000.0,58.2,0,10,9.6,816.0,HOLD,Monitor for better entry point
+772,107000.0,54.2,0,0,9.6,856.0,HOLD,Monitor for better entry point
+773,114500.0,58.2,0,10,9.6,916.0,HOLD,Monitor for better entry point
+774,395000.0,66.2,0,30,9.6,3160.0,CONSIDER,Value-add opportunity with good potential
+775,162000.0,49.7,15,0,9.6,1296.0,AVOID,High risk or poor return potential
+776,221500.0,66.2,0,30,9.6,1772.0,CONSIDER,Value-add opportunity with good potential
+777,142500.0,54.2,0,0,9.6,1140.0,HOLD,Monitor for better entry point
+778,144000.0,54.2,0,0,9.6,1152.0,HOLD,Monitor for better entry point
+779,135000.0,54.2,0,0,9.6,1080.0,HOLD,Monitor for better entry point
+780,176000.0,54.2,0,0,9.6,1408.0,HOLD,Monitor for better entry point
+781,175900.0,54.2,0,0,9.6,1407.2,HOLD,Monitor for better entry point
+782,187100.0,66.2,0,30,9.6,1496.8,CONSIDER,Value-add opportunity with good potential
+783,165500.0,55.2,0,0,9.6,1324.0,HOLD,Monitor for better entry point
+784,128000.0,50.2,30,10,9.6,1024.0,HOLD,Monitor for better entry point
+785,161500.0,58.2,0,10,9.6,1292.0,HOLD,Monitor for better entry point
+786,139000.0,50.2,30,10,9.6,1112.0,HOLD,Monitor for better entry point
+787,233000.0,66.2,0,30,9.6,1864.0,CONSIDER,Value-add opportunity with good potential
+788,107900.0,68.2,0,30,9.600000000000001,863.2,CONSIDER,Value-add opportunity with good potential
+789,187500.0,69.2,0,30,9.6,1500.0,CONSIDER,Value-add opportunity with good potential
+790,160200.0,61.7,15,30,9.6,1281.6000000000001,CONSIDER,Value-add opportunity with good potential
+791,146800.0,54.2,0,0,9.6,1174.4,HOLD,Monitor for better entry point
+792,269790.0,60.2,0,15,9.600000000000001,2158.32,CONSIDER,Value-add opportunity with good potential
+793,225000.0,66.2,0,30,9.6,1800.0,CONSIDER,Value-add opportunity with good potential
+794,194500.0,54.2,0,0,9.6,1556.0,HOLD,Monitor for better entry point
+795,171000.0,55.2,0,0,9.6,1368.0,HOLD,Monitor for better entry point
+796,143500.0,54.2,0,0,9.6,1148.0,HOLD,Monitor for better entry point
+797,110000.0,58.2,0,10,9.6,880.0,HOLD,Monitor for better entry point
+798,485000.0,66.2,0,30,9.6,3880.0,CONSIDER,Value-add opportunity with good potential
+799,175000.0,59.2,30,30,9.6,1400.0,HOLD,Monitor for better entry point
+800,200000.0,54.2,0,0,9.6,1600.0,HOLD,Monitor for better entry point
+801,109900.0,54.7,45,30,9.600000000000001,879.2,HOLD,Monitor for better entry point
+802,189000.0,66.2,0,30,9.6,1512.0,CONSIDER,Value-add opportunity with good potential
+803,582933.0,66.2,0,30,9.6,4663.464,CONSIDER,Value-add opportunity with good potential
+804,118000.0,58.2,0,10,9.6,944.0,HOLD,Monitor for better entry point
+805,227680.0,66.2,0,30,9.6,1821.44,CONSIDER,Value-add opportunity with good potential
+806,135500.0,58.2,0,10,9.6,1084.0,HOLD,Monitor for better entry point
+807,223500.0,50.2,30,10,9.6,1788.0,HOLD,Monitor for better entry point
+808,159950.0,58.2,0,10,9.6,1279.6000000000001,HOLD,Monitor for better entry point
+809,106000.0,49.2,30,10,9.6,848.0,AVOID,High risk or poor return potential
+810,181000.0,55.2,0,0,9.6,1448.0,HOLD,Monitor for better entry point
+811,144500.0,61.7,15,30,9.6,1156.0,CONSIDER,Value-add opportunity with good potential
+812,55993.0,52.2,20,10,9.6,447.944,HOLD,Monitor for better entry point
+813,157900.0,59.2,0,10,9.600000000000001,1263.2,HOLD,Monitor for better entry point
+814,116000.0,59.2,30,30,9.6,928.0,HOLD,Monitor for better entry point
+815,224900.0,60.2,0,15,9.6,1799.2,CONSIDER,Value-add opportunity with good potential
+816,137000.0,59.2,0,10,9.6,1096.0,HOLD,Monitor for better entry point
+817,271000.0,72.2,0,45,9.6,2168.0,BUY,Solid investment with good risk-adjusted returns
+818,155000.0,64.2,0,20,9.6,1240.0,CONSIDER,Value-add opportunity with good potential
+819,224000.0,66.2,0,30,9.6,1792.0,CONSIDER,Value-add opportunity with good potential
+820,183000.0,72.2,0,45,9.6,1464.0,BUY,Solid investment with good risk-adjusted returns
+821,93000.0,57.2,0,10,9.6,744.0,HOLD,Monitor for better entry point
+822,225000.0,66.2,0,30,9.6,1800.0,CONSIDER,Value-add opportunity with good potential
+823,139500.0,68.2,0,30,9.6,1116.0,CONSIDER,Value-add opportunity with good potential
+824,232600.0,66.2,0,30,9.6,1860.8,CONSIDER,Value-add opportunity with good potential
+825,385000.0,66.2,0,30,9.6,3080.0,CONSIDER,Value-add opportunity with good potential
+826,109500.0,50.2,30,10,9.6,876.0,HOLD,Monitor for better entry point
+827,189000.0,66.2,0,30,9.6,1512.0,CONSIDER,Value-add opportunity with good potential
+828,185000.0,64.2,0,25,9.6,1480.0,CONSIDER,Value-add opportunity with good potential
+829,147400.0,61.7,15,30,9.600000000000001,1179.2,CONSIDER,Value-add opportunity with good potential
+830,166000.0,58.2,0,10,9.6,1328.0,HOLD,Monitor for better entry point
+831,151000.0,61.7,15,30,9.6,1208.0,CONSIDER,Value-add opportunity with good potential
+832,237000.0,73.2,0,45,9.6,1896.0,BUY,Solid investment with good risk-adjusted returns
+833,167000.0,59.2,0,10,9.6,1336.0,HOLD,Monitor for better entry point
+834,139950.0,59.2,0,10,9.6,1119.6000000000001,HOLD,Monitor for better entry point
+835,128000.0,68.2,0,30,9.6,1024.0,CONSIDER,Value-add opportunity with good potential
+836,153500.0,59.2,0,10,9.6,1228.0,HOLD,Monitor for better entry point
+837,100000.0,49.7,15,0,9.6,800.0,AVOID,High risk or poor return potential
+838,144000.0,55.2,0,0,9.6,1152.0,HOLD,Monitor for better entry point
+839,130500.0,59.2,0,10,9.6,1044.0,HOLD,Monitor for better entry point
+840,140000.0,60.2,30,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+841,157500.0,60.2,30,30,9.6,1260.0,CONSIDER,Value-add opportunity with good potential
+842,174900.0,68.2,0,30,9.6,1399.2,CONSIDER,Value-add opportunity with good potential
+843,141000.0,57.2,0,10,9.6,1128.0,HOLD,Monitor for better entry point
+844,153900.0,60.2,30,30,9.600000000000001,1231.2,CONSIDER,Value-add opportunity with good potential
+845,171000.0,60.2,0,15,9.6,1368.0,CONSIDER,Value-add opportunity with good potential
+846,213000.0,54.2,0,0,9.6,1704.0,HOLD,Monitor for better entry point
+847,133500.0,61.2,0,15,9.6,1068.0,CONSIDER,Value-add opportunity with good potential
+848,240000.0,60.2,30,30,9.6,1920.0,CONSIDER,Value-add opportunity with good potential
+849,187000.0,64.2,0,20,9.6,1496.0,CONSIDER,Value-add opportunity with good potential
+850,131500.0,61.7,15,30,9.6,1052.0,CONSIDER,Value-add opportunity with good potential
+851,215000.0,61.7,15,30,9.6,1720.0,CONSIDER,Value-add opportunity with good potential
+852,164000.0,58.2,0,10,9.6,1312.0,HOLD,Monitor for better entry point
+853,158000.0,59.2,0,10,9.6,1264.0,HOLD,Monitor for better entry point
+854,170000.0,57.2,0,10,9.6,1360.0,HOLD,Monitor for better entry point
+855,127000.0,69.2,0,30,9.6,1016.0,CONSIDER,Value-add opportunity with good potential
+856,147000.0,55.2,0,0,9.6,1176.0,HOLD,Monitor for better entry point
+857,174000.0,54.2,0,0,9.6,1392.0,HOLD,Monitor for better entry point
+858,152000.0,54.2,0,0,9.6,1216.0,HOLD,Monitor for better entry point
+859,250000.0,68.2,0,30,9.6,2000.0,CONSIDER,Value-add opportunity with good potential
+860,189950.0,60.2,30,30,9.6,1519.6000000000001,CONSIDER,Value-add opportunity with good potential
+861,131500.0,57.2,0,10,9.6,1052.0,HOLD,Monitor for better entry point
+862,152000.0,54.2,0,0,9.6,1216.0,HOLD,Monitor for better entry point
+863,132500.0,58.2,0,10,9.6,1060.0,HOLD,Monitor for better entry point
+864,250580.0,66.2,0,30,9.6,2004.64,CONSIDER,Value-add opportunity with good potential
+865,148500.0,55.2,0,0,9.6,1188.0,HOLD,Monitor for better entry point
+866,248900.0,66.2,0,30,9.6,1991.2,CONSIDER,Value-add opportunity with good potential
+867,129000.0,58.2,0,10,9.6,1032.0,HOLD,Monitor for better entry point
+868,169000.0,59.2,0,10,9.6,1352.0,HOLD,Monitor for better entry point
+869,236000.0,54.2,0,0,9.6,1888.0,HOLD,Monitor for better entry point
+870,109500.0,58.2,0,10,9.6,876.0,HOLD,Monitor for better entry point
+871,200500.0,54.2,0,0,9.6,1604.0,HOLD,Monitor for better entry point
+872,116000.0,68.2,0,30,9.6,928.0,CONSIDER,Value-add opportunity with good potential
+873,133000.0,68.2,0,30,9.6,1064.0,CONSIDER,Value-add opportunity with good potential
+874,66500.0,59.2,0,10,9.6,532.0,HOLD,Monitor for better entry point
+875,303477.0,66.2,0,30,9.6,2427.8160000000003,CONSIDER,Value-add opportunity with good potential
+876,132250.0,58.2,0,10,9.6,1058.0,HOLD,Monitor for better entry point
+877,350000.0,66.2,0,30,9.6,2800.0,CONSIDER,Value-add opportunity with good potential
+878,148000.0,68.2,0,30,9.6,1184.0,CONSIDER,Value-add opportunity with good potential
+879,136500.0,71.2,0,35,9.6,1092.0,BUY,Solid investment with good risk-adjusted returns
+880,157000.0,66.2,0,30,9.6,1256.0,CONSIDER,Value-add opportunity with good potential
+881,187500.0,60.2,0,15,9.6,1500.0,CONSIDER,Value-add opportunity with good potential
+882,178000.0,54.2,0,0,9.6,1424.0,HOLD,Monitor for better entry point
+883,118500.0,49.2,30,10,9.6,948.0,AVOID,High risk or poor return potential
+884,100000.0,58.2,0,10,9.6,800.0,HOLD,Monitor for better entry point
+885,328900.0,60.2,0,15,9.6,2631.2000000000003,CONSIDER,Value-add opportunity with good potential
+886,145000.0,58.2,0,10,9.6,1160.0,HOLD,Monitor for better entry point
+887,135500.0,68.2,0,30,9.6,1084.0,CONSIDER,Value-add opportunity with good potential
+888,268000.0,55.2,0,0,9.6,2144.0,HOLD,Monitor for better entry point
+889,149500.0,57.2,0,10,9.6,1196.0,HOLD,Monitor for better entry point
+890,122900.0,68.2,0,30,9.600000000000001,983.2,CONSIDER,Value-add opportunity with good potential
+891,172500.0,54.2,0,0,9.6,1380.0,HOLD,Monitor for better entry point
+892,154500.0,69.2,0,30,9.6,1236.0,CONSIDER,Value-add opportunity with good potential
+893,165000.0,58.2,0,10,9.6,1320.0,HOLD,Monitor for better entry point
+894,118858.0,54.2,0,0,9.6,950.864,HOLD,Monitor for better entry point
+895,140000.0,58.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+896,106500.0,50.2,30,10,9.6,852.0,HOLD,Monitor for better entry point
+897,142953.0,54.2,0,0,9.6,1143.624,HOLD,Monitor for better entry point
+898,611657.0,66.2,0,30,9.6,4893.256,CONSIDER,Value-add opportunity with good potential
+899,135000.0,68.2,0,30,9.6,1080.0,CONSIDER,Value-add opportunity with good potential
+900,110000.0,55.2,0,0,9.6,880.0,HOLD,Monitor for better entry point
+901,153000.0,68.2,0,30,9.6,1224.0,CONSIDER,Value-add opportunity with good potential
+902,180000.0,66.2,0,30,9.6,1440.0,CONSIDER,Value-add opportunity with good potential
+903,240000.0,72.2,0,45,9.6,1920.0,BUY,Solid investment with good risk-adjusted returns
+904,125500.0,59.2,0,10,9.6,1004.0,HOLD,Monitor for better entry point
+905,128000.0,58.2,0,10,9.6,1024.0,HOLD,Monitor for better entry point
+906,255000.0,66.2,0,30,9.6,2040.0,CONSIDER,Value-add opportunity with good potential
+907,250000.0,59.2,30,30,9.6,2000.0,HOLD,Monitor for better entry point
+908,131000.0,54.2,0,0,9.6,1048.0,HOLD,Monitor for better entry point
+909,174000.0,66.2,0,30,9.6,1392.0,CONSIDER,Value-add opportunity with good potential
+910,154300.0,58.2,0,10,9.6,1234.4,HOLD,Monitor for better entry point
+911,143500.0,70.2,0,35,9.6,1148.0,BUY,Solid investment with good risk-adjusted returns
+912,88000.0,59.2,30,30,9.6,704.0,HOLD,Monitor for better entry point
+913,145000.0,59.2,0,10,9.6,1160.0,HOLD,Monitor for better entry point
+914,173733.0,61.7,15,30,9.600000000000001,1389.864,CONSIDER,Value-add opportunity with good potential
+915,75000.0,49.7,15,0,9.6,600.0,AVOID,High risk or poor return potential
+916,35311.0,42.7,45,10,9.6,282.488,AVOID,High risk or poor return potential
+917,135000.0,59.2,0,10,9.6,1080.0,HOLD,Monitor for better entry point
+918,238000.0,54.2,0,0,9.6,1904.0,HOLD,Monitor for better entry point
+919,176500.0,69.2,0,30,9.6,1412.0,CONSIDER,Value-add opportunity with good potential
+920,201000.0,54.2,0,0,9.6,1608.0,HOLD,Monitor for better entry point
+921,145900.0,59.2,30,30,9.600000000000001,1167.2,HOLD,Monitor for better entry point
+922,169990.0,66.2,0,30,9.6,1359.92,CONSIDER,Value-add opportunity with good potential
+923,193000.0,54.2,0,0,9.6,1544.0,HOLD,Monitor for better entry point
+924,207500.0,55.2,0,0,9.6,1660.0,HOLD,Monitor for better entry point
+925,175000.0,55.2,0,0,9.6,1400.0,HOLD,Monitor for better entry point
+926,285000.0,66.2,0,30,9.6,2280.0,CONSIDER,Value-add opportunity with good potential
+927,176000.0,58.2,0,10,9.6,1408.0,HOLD,Monitor for better entry point
+928,236500.0,66.2,0,30,9.6,1892.0,CONSIDER,Value-add opportunity with good potential
+929,222000.0,54.2,0,0,9.6,1776.0,HOLD,Monitor for better entry point
+930,201000.0,66.2,0,30,9.6,1608.0,CONSIDER,Value-add opportunity with good potential
+931,117500.0,59.2,0,10,9.6,940.0,HOLD,Monitor for better entry point
+932,320000.0,66.2,0,30,9.6,2560.0,CONSIDER,Value-add opportunity with good potential
+933,190000.0,66.2,0,30,9.6,1520.0,CONSIDER,Value-add opportunity with good potential
+934,242000.0,68.2,0,30,9.6,1936.0,CONSIDER,Value-add opportunity with good potential
+935,79900.0,49.2,30,10,9.6,639.2,AVOID,High risk or poor return potential
+936,184900.0,66.2,0,30,9.6,1479.2,CONSIDER,Value-add opportunity with good potential
+937,253000.0,66.2,0,30,9.6,2024.0,CONSIDER,Value-add opportunity with good potential
+938,239799.0,66.2,0,30,9.6,1918.392,CONSIDER,Value-add opportunity with good potential
+939,244400.0,68.2,0,30,9.6,1955.2,CONSIDER,Value-add opportunity with good potential
+940,150900.0,54.2,0,0,9.600000000000001,1207.2,HOLD,Monitor for better entry point
+941,214000.0,54.2,0,0,9.6,1712.0,HOLD,Monitor for better entry point
+942,150000.0,44.7,25,0,9.6,1200.0,AVOID,High risk or poor return potential
+943,143000.0,57.2,0,10,9.6,1144.0,HOLD,Monitor for better entry point
+944,137500.0,65.2,0,25,9.6,1100.0,CONSIDER,Value-add opportunity with good potential
+945,124900.0,50.2,30,10,9.600000000000001,999.2,HOLD,Monitor for better entry point
+946,143000.0,59.2,0,10,9.6,1144.0,HOLD,Monitor for better entry point
+947,270000.0,66.2,0,30,9.6,2160.0,CONSIDER,Value-add opportunity with good potential
+948,192500.0,66.2,0,30,9.6,1540.0,CONSIDER,Value-add opportunity with good potential
+949,197500.0,64.2,0,20,9.6,1580.0,CONSIDER,Value-add opportunity with good potential
+950,129000.0,69.2,0,30,9.6,1032.0,CONSIDER,Value-add opportunity with good potential
+951,119900.0,58.2,0,10,9.600000000000001,959.2,HOLD,Monitor for better entry point
+952,133900.0,65.2,0,20,9.600000000000001,1071.2,CONSIDER,Value-add opportunity with good potential
+953,172000.0,57.2,0,10,9.6,1376.0,HOLD,Monitor for better entry point
+954,127500.0,60.2,0,15,9.6,1020.0,CONSIDER,Value-add opportunity with good potential
+955,145000.0,59.2,0,10,9.6,1160.0,HOLD,Monitor for better entry point
+956,124000.0,50.7,15,0,9.6,992.0,HOLD,Monitor for better entry point
+957,132000.0,58.2,0,10,9.6,1056.0,HOLD,Monitor for better entry point
+958,185000.0,66.2,0,30,9.6,1480.0,CONSIDER,Value-add opportunity with good potential
+959,155000.0,49.7,15,0,9.6,1240.0,AVOID,High risk or poor return potential
+960,116500.0,68.2,0,30,9.6,932.0,CONSIDER,Value-add opportunity with good potential
+961,272000.0,64.2,0,20,9.6,2176.0,CONSIDER,Value-add opportunity with good potential
+962,155000.0,50.7,15,0,9.6,1240.0,HOLD,Monitor for better entry point
+963,239000.0,66.2,0,30,9.6,1912.0,CONSIDER,Value-add opportunity with good potential
+964,214900.0,66.2,0,30,9.6,1719.2,CONSIDER,Value-add opportunity with good potential
+965,178900.0,66.2,0,30,9.6,1431.2,CONSIDER,Value-add opportunity with good potential
+966,160000.0,68.2,0,30,9.6,1280.0,CONSIDER,Value-add opportunity with good potential
+967,135000.0,68.2,0,30,9.6,1080.0,CONSIDER,Value-add opportunity with good potential
+968,37900.0,50.2,30,10,9.6,303.2,HOLD,Monitor for better entry point
+969,140000.0,58.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+970,135000.0,57.2,0,10,9.6,1080.0,HOLD,Monitor for better entry point
+971,173000.0,61.7,15,30,9.6,1384.0,CONSIDER,Value-add opportunity with good potential
+972,99500.0,54.2,0,0,9.6,796.0,HOLD,Monitor for better entry point
+973,182000.0,66.2,0,30,9.6,1456.0,CONSIDER,Value-add opportunity with good potential
+974,167500.0,60.2,30,30,9.6,1340.0,CONSIDER,Value-add opportunity with good potential
+975,165000.0,49.7,15,0,9.6,1320.0,AVOID,High risk or poor return potential
+976,85500.0,59.2,30,30,9.6,684.0,HOLD,Monitor for better entry point
+977,199900.0,61.7,15,30,9.6,1599.2,CONSIDER,Value-add opportunity with good potential
+978,110000.0,58.2,0,10,9.6,880.0,HOLD,Monitor for better entry point
+979,139000.0,59.2,0,10,9.6,1112.0,HOLD,Monitor for better entry point
+980,178400.0,70.2,0,30,9.6,1427.2,BUY,Solid investment with good risk-adjusted returns
+981,336000.0,54.2,0,0,9.6,2688.0,HOLD,Monitor for better entry point
+982,159895.0,61.7,15,30,9.600000000000001,1279.16,CONSIDER,Value-add opportunity with good potential
+983,255900.0,66.2,0,30,9.6,2047.2,CONSIDER,Value-add opportunity with good potential
+984,126000.0,54.2,0,0,9.6,1008.0,HOLD,Monitor for better entry point
+985,125000.0,58.2,0,10,9.6,1000.0,HOLD,Monitor for better entry point
+986,117000.0,60.2,30,30,9.6,936.0,CONSIDER,Value-add opportunity with good potential
+987,395192.0,66.2,0,30,9.6,3161.536,CONSIDER,Value-add opportunity with good potential
+988,195000.0,55.2,0,0,9.6,1560.0,HOLD,Monitor for better entry point
+989,197000.0,66.2,0,30,9.6,1576.0,CONSIDER,Value-add opportunity with good potential
+990,348000.0,54.2,0,0,9.6,2784.0,HOLD,Monitor for better entry point
+991,168000.0,61.2,30,30,9.6,1344.0,CONSIDER,Value-add opportunity with good potential
+992,187000.0,69.2,0,30,9.6,1496.0,CONSIDER,Value-add opportunity with good potential
+993,173900.0,66.2,0,30,9.6,1391.2,CONSIDER,Value-add opportunity with good potential
+994,337500.0,66.2,0,30,9.6,2700.0,CONSIDER,Value-add opportunity with good potential
+995,121600.0,63.7,15,30,9.6,972.8000000000001,CONSIDER,Value-add opportunity with good potential
+996,136500.0,59.2,0,10,9.6,1092.0,HOLD,Monitor for better entry point
+997,185000.0,55.2,0,0,9.6,1480.0,HOLD,Monitor for better entry point
+998,91000.0,48.2,30,10,9.6,728.0,AVOID,High risk or poor return potential
+999,206000.0,66.2,0,30,9.6,1648.0,CONSIDER,Value-add opportunity with good potential
+1000,82000.0,48.7,25,10,9.6,656.0,AVOID,High risk or poor return potential
+1001,86000.0,50.2,30,10,9.6,688.0,HOLD,Monitor for better entry point
+1002,232000.0,66.2,0,30,9.6,1856.0,CONSIDER,Value-add opportunity with good potential
+1003,136905.0,55.2,0,0,9.6,1095.24,HOLD,Monitor for better entry point
+1004,181000.0,61.7,15,30,9.6,1448.0,CONSIDER,Value-add opportunity with good potential
+1005,149900.0,65.2,0,20,9.600000000000001,1199.2,CONSIDER,Value-add opportunity with good potential
+1006,163500.0,44.7,25,0,9.6,1308.0,AVOID,High risk or poor return potential
+1007,88000.0,48.7,15,0,9.6,704.0,AVOID,High risk or poor return potential
+1008,240000.0,72.2,0,45,9.6,1920.0,BUY,Solid investment with good risk-adjusted returns
+1009,102000.0,49.2,30,10,9.6,816.0,AVOID,High risk or poor return potential
+1010,135000.0,58.2,0,10,9.6,1080.0,HOLD,Monitor for better entry point
+1011,100000.0,58.2,0,10,9.6,800.0,HOLD,Monitor for better entry point
+1012,165000.0,59.2,30,30,9.6,1320.0,HOLD,Monitor for better entry point
+1013,85000.0,48.2,30,10,9.6,680.0,AVOID,High risk or poor return potential
+1014,119200.0,58.2,0,10,9.6,953.6,HOLD,Monitor for better entry point
+1015,227000.0,67.2,0,30,9.6,1816.0,CONSIDER,Value-add opportunity with good potential
+1016,203000.0,54.2,0,0,9.6,1624.0,HOLD,Monitor for better entry point
+1017,187500.0,60.2,0,15,9.6,1500.0,CONSIDER,Value-add opportunity with good potential
+1018,160000.0,54.2,0,0,9.6,1280.0,HOLD,Monitor for better entry point
+1019,213490.0,61.7,15,30,9.6,1707.92,CONSIDER,Value-add opportunity with good potential
+1020,176000.0,66.2,0,30,9.6,1408.0,CONSIDER,Value-add opportunity with good potential
+1021,194000.0,66.2,0,30,9.6,1552.0,CONSIDER,Value-add opportunity with good potential
+1022,87000.0,49.2,30,10,9.6,696.0,AVOID,High risk or poor return potential
+1023,191000.0,61.7,15,30,9.6,1528.0,CONSIDER,Value-add opportunity with good potential
+1024,287000.0,55.2,0,0,9.6,2296.0,HOLD,Monitor for better entry point
+1025,112500.0,54.2,0,0,9.6,900.0,HOLD,Monitor for better entry point
+1026,167500.0,58.2,0,10,9.6,1340.0,HOLD,Monitor for better entry point
+1027,293077.0,66.2,0,30,9.6,2344.616,CONSIDER,Value-add opportunity with good potential
+1028,105000.0,58.2,0,10,9.6,840.0,HOLD,Monitor for better entry point
+1029,118000.0,59.7,15,20,9.6,944.0,HOLD,Monitor for better entry point
+1030,160000.0,60.2,30,30,9.6,1280.0,CONSIDER,Value-add opportunity with good potential
+1031,197000.0,39.7,55,10,9.6,1576.0,AVOID,High risk or poor return potential
+1032,310000.0,64.2,0,20,9.6,2480.0,CONSIDER,Value-add opportunity with good potential
+1033,230000.0,66.2,0,30,9.6,1840.0,CONSIDER,Value-add opportunity with good potential
+1034,119750.0,59.2,30,30,9.6,958.0,HOLD,Monitor for better entry point
+1035,84000.0,54.7,25,25,9.6,672.0,HOLD,Monitor for better entry point
+1036,315500.0,66.2,0,30,9.6,2524.0,CONSIDER,Value-add opportunity with good potential
+1037,287000.0,66.2,0,30,9.6,2296.0,CONSIDER,Value-add opportunity with good potential
+1038,97000.0,50.7,15,0,9.6,776.0,HOLD,Monitor for better entry point
+1039,80000.0,48.7,15,0,9.6,640.0,AVOID,High risk or poor return potential
+1040,155000.0,57.2,0,10,9.6,1240.0,HOLD,Monitor for better entry point
+1041,173000.0,69.2,0,30,9.6,1384.0,CONSIDER,Value-add opportunity with good potential
+1042,196000.0,66.2,0,30,9.6,1568.0,CONSIDER,Value-add opportunity with good potential
+1043,262280.0,54.2,0,0,9.600000000000001,2098.2400000000002,HOLD,Monitor for better entry point
+1044,278000.0,54.2,0,0,9.6,2224.0,HOLD,Monitor for better entry point
+1045,139600.0,64.2,0,25,9.6,1116.8,CONSIDER,Value-add opportunity with good potential
+1046,556581.0,66.2,0,30,9.6,4452.648,CONSIDER,Value-add opportunity with good potential
+1047,145000.0,54.2,0,0,9.6,1160.0,HOLD,Monitor for better entry point
+1048,115000.0,57.2,0,10,9.6,920.0,HOLD,Monitor for better entry point
+1049,84900.0,68.2,0,30,9.6,679.2,CONSIDER,Value-add opportunity with good potential
+1050,176485.0,66.2,0,30,9.6,1411.88,CONSIDER,Value-add opportunity with good potential
+1051,200141.0,66.2,0,30,9.6,1601.128,CONSIDER,Value-add opportunity with good potential
+1052,165000.0,59.2,0,10,9.6,1320.0,HOLD,Monitor for better entry point
+1053,144500.0,59.2,0,10,9.6,1156.0,HOLD,Monitor for better entry point
+1054,255000.0,66.2,0,30,9.6,2040.0,CONSIDER,Value-add opportunity with good potential
+1055,180000.0,54.2,0,0,9.6,1440.0,HOLD,Monitor for better entry point
+1056,185850.0,66.2,0,30,9.6,1486.8,CONSIDER,Value-add opportunity with good potential
+1057,248000.0,55.2,0,0,9.6,1984.0,HOLD,Monitor for better entry point
+1058,335000.0,66.2,0,30,9.6,2680.0,CONSIDER,Value-add opportunity with good potential
+1059,220000.0,59.2,30,30,9.6,1760.0,HOLD,Monitor for better entry point
+1060,213500.0,61.7,15,30,9.6,1708.0,CONSIDER,Value-add opportunity with good potential
+1061,81000.0,42.2,50,10,9.6,648.0,AVOID,High risk or poor return potential
+1062,90000.0,49.2,30,10,9.6,720.0,AVOID,High risk or poor return potential
+1063,110500.0,50.2,30,10,9.6,884.0,HOLD,Monitor for better entry point
+1064,154000.0,65.2,0,25,9.6,1232.0,CONSIDER,Value-add opportunity with good potential
+1065,328000.0,54.2,0,0,9.6,2624.0,HOLD,Monitor for better entry point
+1066,178000.0,64.2,0,20,9.6,1424.0,CONSIDER,Value-add opportunity with good potential
+1067,167900.0,59.2,0,10,9.6,1343.2,HOLD,Monitor for better entry point
+1068,151400.0,48.7,15,0,9.600000000000001,1211.2,AVOID,High risk or poor return potential
+1069,135000.0,68.2,0,30,9.6,1080.0,CONSIDER,Value-add opportunity with good potential
+1070,135000.0,58.2,0,10,9.6,1080.0,HOLD,Monitor for better entry point
+1071,154000.0,59.2,0,10,9.6,1232.0,HOLD,Monitor for better entry point
+1072,91500.0,48.7,25,10,9.6,732.0,AVOID,High risk or poor return potential
+1073,159500.0,55.2,0,0,9.6,1276.0,HOLD,Monitor for better entry point
+1074,194000.0,66.2,0,30,9.6,1552.0,CONSIDER,Value-add opportunity with good potential
+1075,219500.0,59.2,0,10,9.6,1756.0,HOLD,Monitor for better entry point
+1076,170000.0,60.2,30,30,9.6,1360.0,CONSIDER,Value-add opportunity with good potential
+1077,138800.0,58.2,0,10,9.6,1110.4,HOLD,Monitor for better entry point
+1078,155900.0,61.7,15,30,9.600000000000001,1247.2,CONSIDER,Value-add opportunity with good potential
+1079,126000.0,54.2,0,0,9.6,1008.0,HOLD,Monitor for better entry point
+1080,145000.0,64.2,0,20,9.6,1160.0,CONSIDER,Value-add opportunity with good potential
+1081,133000.0,58.2,0,10,9.6,1064.0,HOLD,Monitor for better entry point
+1082,192000.0,66.2,0,30,9.6,1536.0,CONSIDER,Value-add opportunity with good potential
+1083,160000.0,59.2,0,10,9.6,1280.0,HOLD,Monitor for better entry point
+1084,187500.0,54.2,0,0,9.6,1500.0,HOLD,Monitor for better entry point
+1085,147000.0,55.2,0,0,9.6,1176.0,HOLD,Monitor for better entry point
+1086,83500.0,49.7,15,0,9.6,668.0,AVOID,High risk or poor return potential
+1087,252000.0,66.2,0,30,9.6,2016.0,CONSIDER,Value-add opportunity with good potential
+1088,137500.0,61.7,15,30,9.6,1100.0,CONSIDER,Value-add opportunity with good potential
+1089,197000.0,61.7,15,30,9.6,1576.0,CONSIDER,Value-add opportunity with good potential
+1090,92900.0,57.2,0,10,9.600000000000001,743.2,HOLD,Monitor for better entry point
+1091,160000.0,49.7,15,0,9.6,1280.0,AVOID,High risk or poor return potential
+1092,136500.0,49.2,30,10,9.6,1092.0,AVOID,High risk or poor return potential
+1093,146000.0,69.2,0,30,9.6,1168.0,CONSIDER,Value-add opportunity with good potential
+1094,129000.0,68.2,0,30,9.6,1032.0,CONSIDER,Value-add opportunity with good potential
+1095,176432.0,66.2,0,30,9.6,1411.4560000000001,CONSIDER,Value-add opportunity with good potential
+1096,127000.0,59.2,30,30,9.6,1016.0,HOLD,Monitor for better entry point
+1097,170000.0,49.7,15,0,9.6,1360.0,AVOID,High risk or poor return potential
+1098,128000.0,50.2,30,10,9.6,1024.0,HOLD,Monitor for better entry point
+1099,157000.0,54.2,0,0,9.6,1256.0,HOLD,Monitor for better entry point
+1100,60000.0,49.2,30,10,9.6,480.0,AVOID,High risk or poor return potential
+1101,119500.0,54.2,0,0,9.6,956.0,HOLD,Monitor for better entry point
+1102,135000.0,68.2,0,30,9.6,1080.0,CONSIDER,Value-add opportunity with good potential
+1103,159500.0,59.2,0,10,9.6,1276.0,HOLD,Monitor for better entry point
+1104,106000.0,49.7,15,0,9.6,848.0,AVOID,High risk or poor return potential
+1105,325000.0,54.2,0,0,9.6,2600.0,HOLD,Monitor for better entry point
+1106,179900.0,54.2,0,0,9.6,1439.2,HOLD,Monitor for better entry point
+1107,274725.0,72.2,0,45,9.6,2197.8,BUY,Solid investment with good risk-adjusted returns
+1108,181000.0,54.2,0,0,9.6,1448.0,HOLD,Monitor for better entry point
+1109,280000.0,66.2,0,30,9.6,2240.0,CONSIDER,Value-add opportunity with good potential
+1110,188000.0,54.2,0,0,9.6,1504.0,HOLD,Monitor for better entry point
+1111,205000.0,55.2,0,0,9.6,1640.0,HOLD,Monitor for better entry point
+1112,129900.0,68.2,0,30,9.600000000000001,1039.2,CONSIDER,Value-add opportunity with good potential
+1113,134500.0,68.2,0,30,9.6,1076.0,CONSIDER,Value-add opportunity with good potential
+1114,117000.0,68.2,0,30,9.6,936.0,CONSIDER,Value-add opportunity with good potential
+1115,318000.0,66.2,0,30,9.6,2544.0,CONSIDER,Value-add opportunity with good potential
+1116,184100.0,66.2,0,30,9.6,1472.8,CONSIDER,Value-add opportunity with good potential
+1117,130000.0,68.2,0,30,9.6,1040.0,CONSIDER,Value-add opportunity with good potential
+1118,140000.0,59.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+1119,133700.0,58.2,0,10,9.6,1069.6,HOLD,Monitor for better entry point
+1120,118400.0,49.2,30,10,9.600000000000001,947.2,AVOID,High risk or poor return potential
+1121,212900.0,66.2,0,30,9.6,1703.2,CONSIDER,Value-add opportunity with good potential
+1122,112000.0,48.7,25,10,9.6,896.0,AVOID,High risk or poor return potential
+1123,118000.0,70.2,0,30,9.6,944.0,BUY,Solid investment with good risk-adjusted returns
+1124,163900.0,54.2,0,0,9.6,1311.2,HOLD,Monitor for better entry point
+1125,115000.0,58.2,0,10,9.6,920.0,HOLD,Monitor for better entry point
+1126,174000.0,61.7,15,30,9.6,1392.0,CONSIDER,Value-add opportunity with good potential
+1127,259000.0,66.2,0,30,9.6,2072.0,CONSIDER,Value-add opportunity with good potential
+1128,215000.0,66.2,0,30,9.6,1720.0,CONSIDER,Value-add opportunity with good potential
+1129,140000.0,54.2,0,0,9.6,1120.0,HOLD,Monitor for better entry point
+1130,135000.0,39.7,55,10,9.6,1080.0,AVOID,High risk or poor return potential
+1131,93500.0,54.2,0,0,9.6,748.0,HOLD,Monitor for better entry point
+1132,117500.0,48.2,30,10,9.6,940.0,AVOID,High risk or poor return potential
+1133,239500.0,54.2,0,0,9.6,1916.0,HOLD,Monitor for better entry point
+1134,169000.0,54.2,0,0,9.6,1352.0,HOLD,Monitor for better entry point
+1135,102000.0,49.2,30,10,9.6,816.0,AVOID,High risk or poor return potential
+1136,119000.0,58.2,0,10,9.6,952.0,HOLD,Monitor for better entry point
+1137,94000.0,60.2,30,30,9.6,752.0,CONSIDER,Value-add opportunity with good potential
+1138,196000.0,54.2,0,0,9.6,1568.0,HOLD,Monitor for better entry point
+1139,144000.0,49.2,30,10,9.6,1152.0,AVOID,High risk or poor return potential
+1140,139000.0,68.2,0,30,9.6,1112.0,CONSIDER,Value-add opportunity with good potential
+1141,197500.0,70.2,0,35,9.6,1580.0,BUY,Solid investment with good risk-adjusted returns
+1142,424870.0,66.2,0,30,9.600000000000001,3398.96,CONSIDER,Value-add opportunity with good potential
+1143,80000.0,48.7,25,10,9.6,640.0,AVOID,High risk or poor return potential
+1144,80000.0,57.2,0,10,9.6,640.0,HOLD,Monitor for better entry point
+1145,149000.0,50.2,30,10,9.6,1192.0,HOLD,Monitor for better entry point
+1146,180000.0,54.2,0,0,9.6,1440.0,HOLD,Monitor for better entry point
+1147,174500.0,68.2,0,30,9.6,1396.0,CONSIDER,Value-add opportunity with good potential
+1148,116900.0,59.2,30,30,9.600000000000001,935.2,HOLD,Monitor for better entry point
+1149,143000.0,61.2,30,30,9.6,1144.0,CONSIDER,Value-add opportunity with good potential
+1150,124000.0,58.2,0,10,9.6,992.0,HOLD,Monitor for better entry point
+1151,149900.0,57.2,0,10,9.600000000000001,1199.2,HOLD,Monitor for better entry point
+1152,230000.0,68.2,0,30,9.6,1840.0,CONSIDER,Value-add opportunity with good potential
+1153,120500.0,60.2,30,30,9.6,964.0,CONSIDER,Value-add opportunity with good potential
+1154,201800.0,59.2,0,10,9.600000000000001,1614.4,HOLD,Monitor for better entry point
+1155,218000.0,65.2,0,20,9.6,1744.0,CONSIDER,Value-add opportunity with good potential
+1156,179900.0,69.2,0,30,9.6,1439.2,CONSIDER,Value-add opportunity with good potential
+1157,230000.0,66.2,0,30,9.6,1840.0,CONSIDER,Value-add opportunity with good potential
+1158,235128.0,66.2,0,30,9.6,1881.0240000000001,CONSIDER,Value-add opportunity with good potential
+1159,185000.0,55.2,0,0,9.6,1480.0,HOLD,Monitor for better entry point
+1160,146000.0,49.7,15,0,9.6,1168.0,AVOID,High risk or poor return potential
+1161,224000.0,74.2,0,45,9.6,1792.0,BUY,Solid investment with good risk-adjusted returns
+1162,129000.0,58.2,0,10,9.6,1032.0,HOLD,Monitor for better entry point
+1163,108959.0,57.2,0,10,9.6,871.672,HOLD,Monitor for better entry point
+1164,194000.0,64.2,0,20,9.6,1552.0,CONSIDER,Value-add opportunity with good potential
+1165,233170.0,66.2,0,30,9.6,1865.3600000000001,CONSIDER,Value-add opportunity with good potential
+1166,245350.0,66.2,0,30,9.6,1962.8,CONSIDER,Value-add opportunity with good potential
+1167,173000.0,54.2,0,0,9.6,1384.0,HOLD,Monitor for better entry point
+1168,235000.0,59.2,30,30,9.6,1880.0,HOLD,Monitor for better entry point
+1169,625000.0,60.2,0,15,9.6,5000.0,CONSIDER,Value-add opportunity with good potential
+1170,171000.0,55.2,0,0,9.6,1368.0,HOLD,Monitor for better entry point
+1171,163000.0,59.2,0,10,9.6,1304.0,HOLD,Monitor for better entry point
+1172,171900.0,61.7,15,30,9.6,1375.2,CONSIDER,Value-add opportunity with good potential
+1173,200500.0,59.2,0,10,9.6,1604.0,HOLD,Monitor for better entry point
+1174,239000.0,60.2,30,30,9.6,1912.0,CONSIDER,Value-add opportunity with good potential
+1175,285000.0,54.2,0,0,9.6,2280.0,HOLD,Monitor for better entry point
+1176,119500.0,60.2,0,15,9.6,956.0,CONSIDER,Value-add opportunity with good potential
+1177,115000.0,55.7,45,30,9.6,920.0,HOLD,Monitor for better entry point
+1178,154900.0,50.2,30,10,9.600000000000001,1239.2,HOLD,Monitor for better entry point
+1179,93000.0,58.2,0,10,9.6,744.0,HOLD,Monitor for better entry point
+1180,250000.0,54.2,0,0,9.6,2000.0,HOLD,Monitor for better entry point
+1181,392500.0,66.2,0,30,9.6,3140.0,CONSIDER,Value-add opportunity with good potential
+1182,745000.0,54.2,0,0,9.6,5960.0,HOLD,Monitor for better entry point
+1183,120000.0,50.2,30,10,9.6,960.0,HOLD,Monitor for better entry point
+1184,186700.0,57.2,0,10,9.6,1493.6000000000001,HOLD,Monitor for better entry point
+1185,104900.0,59.2,30,30,9.600000000000001,839.2,HOLD,Monitor for better entry point
+1186,95000.0,49.2,30,10,9.6,760.0,AVOID,High risk or poor return potential
+1187,262000.0,54.2,0,0,9.6,2096.0,HOLD,Monitor for better entry point
+1188,195000.0,66.2,0,30,9.6,1560.0,CONSIDER,Value-add opportunity with good potential
+1189,189000.0,54.2,0,0,9.6,1512.0,HOLD,Monitor for better entry point
+1190,168000.0,57.2,0,10,9.6,1344.0,HOLD,Monitor for better entry point
+1191,174000.0,49.7,15,0,9.6,1392.0,AVOID,High risk or poor return potential
+1192,125000.0,60.2,30,30,9.6,1000.0,CONSIDER,Value-add opportunity with good potential
+1193,165000.0,49.7,15,0,9.6,1320.0,AVOID,High risk or poor return potential
+1194,158000.0,68.2,0,30,9.6,1264.0,CONSIDER,Value-add opportunity with good potential
+1195,176000.0,66.2,0,30,9.6,1408.0,CONSIDER,Value-add opportunity with good potential
+1196,219210.0,66.2,0,30,9.6,1753.68,CONSIDER,Value-add opportunity with good potential
+1197,144000.0,50.2,30,10,9.6,1152.0,HOLD,Monitor for better entry point
+1198,178000.0,66.2,0,30,9.6,1424.0,CONSIDER,Value-add opportunity with good potential
+1199,148000.0,58.2,0,10,9.6,1184.0,HOLD,Monitor for better entry point
+1200,116050.0,54.2,0,0,9.6,928.4,HOLD,Monitor for better entry point
+1201,197900.0,54.2,0,0,9.6,1583.2,HOLD,Monitor for better entry point
+1202,117000.0,60.2,30,30,9.6,936.0,CONSIDER,Value-add opportunity with good potential
+1203,213000.0,54.2,0,0,9.6,1704.0,HOLD,Monitor for better entry point
+1204,153500.0,55.2,0,0,9.6,1228.0,HOLD,Monitor for better entry point
+1205,271900.0,70.2,0,35,9.6,2175.2,BUY,Solid investment with good risk-adjusted returns
+1206,107000.0,57.2,0,10,9.6,856.0,HOLD,Monitor for better entry point
+1207,200000.0,66.2,0,30,9.6,1600.0,CONSIDER,Value-add opportunity with good potential
+1208,140000.0,68.2,0,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+1209,290000.0,72.2,0,45,9.6,2320.0,BUY,Solid investment with good risk-adjusted returns
+1210,189000.0,54.2,0,0,9.6,1512.0,HOLD,Monitor for better entry point
+1211,164000.0,64.2,0,20,9.6,1312.0,CONSIDER,Value-add opportunity with good potential
+1212,113000.0,59.2,0,10,9.6,904.0,HOLD,Monitor for better entry point
+1213,145000.0,76.2,0,45,9.6,1160.0,BUY,Solid investment with good risk-adjusted returns
+1214,134500.0,58.2,0,10,9.6,1076.0,HOLD,Monitor for better entry point
+1215,125000.0,58.2,0,10,9.6,1000.0,HOLD,Monitor for better entry point
+1216,112000.0,54.2,0,0,9.6,896.0,HOLD,Monitor for better entry point
+1217,229456.0,66.2,0,30,9.6,1835.6480000000001,CONSIDER,Value-add opportunity with good potential
+1218,80500.0,58.2,0,10,9.6,644.0,HOLD,Monitor for better entry point
+1219,91500.0,49.7,15,0,9.6,732.0,AVOID,High risk or poor return potential
+1220,115000.0,58.2,0,10,9.6,920.0,HOLD,Monitor for better entry point
+1221,134000.0,58.2,0,10,9.6,1072.0,HOLD,Monitor for better entry point
+1222,143000.0,59.2,0,10,9.6,1144.0,HOLD,Monitor for better entry point
+1223,137900.0,48.7,25,10,9.600000000000001,1103.2,AVOID,High risk or poor return potential
+1224,184000.0,66.2,0,30,9.6,1472.0,CONSIDER,Value-add opportunity with good potential
+1225,145000.0,69.2,0,30,9.6,1160.0,CONSIDER,Value-add opportunity with good potential
+1226,214000.0,72.2,0,45,9.6,1712.0,BUY,Solid investment with good risk-adjusted returns
+1227,147000.0,69.2,0,30,9.6,1176.0,CONSIDER,Value-add opportunity with good potential
+1228,367294.0,66.2,0,30,9.6,2938.352,CONSIDER,Value-add opportunity with good potential
+1229,127000.0,58.2,0,10,9.6,1016.0,HOLD,Monitor for better entry point
+1230,190000.0,54.2,0,0,9.6,1520.0,HOLD,Monitor for better entry point
+1231,132500.0,59.2,0,10,9.6,1060.0,HOLD,Monitor for better entry point
+1232,101800.0,58.2,0,10,9.6,814.4,HOLD,Monitor for better entry point
+1233,142000.0,58.2,0,10,9.6,1136.0,HOLD,Monitor for better entry point
+1234,130000.0,50.2,30,10,9.6,1040.0,HOLD,Monitor for better entry point
+1235,138887.0,49.2,30,10,9.6,1111.096,AVOID,High risk or poor return potential
+1236,175500.0,61.7,15,30,9.6,1404.0,CONSIDER,Value-add opportunity with good potential
+1237,195000.0,66.2,0,30,9.6,1560.0,CONSIDER,Value-add opportunity with good potential
+1238,142500.0,66.2,0,30,9.6,1140.0,CONSIDER,Value-add opportunity with good potential
+1239,265900.0,66.2,0,30,9.6,2127.2,CONSIDER,Value-add opportunity with good potential
+1240,224900.0,66.2,0,30,9.6,1799.2,CONSIDER,Value-add opportunity with good potential
+1241,248328.0,67.2,0,30,9.6,1986.624,CONSIDER,Value-add opportunity with good potential
+1242,170000.0,55.2,0,0,9.6,1360.0,HOLD,Monitor for better entry point
+1243,465000.0,66.2,0,30,9.6,3720.0,CONSIDER,Value-add opportunity with good potential
+1244,230000.0,59.2,30,30,9.6,1840.0,HOLD,Monitor for better entry point
+1245,178000.0,64.2,0,20,9.6,1424.0,CONSIDER,Value-add opportunity with good potential
+1246,186500.0,66.2,0,30,9.6,1492.0,CONSIDER,Value-add opportunity with good potential
+1247,169900.0,54.2,0,0,9.6,1359.2,HOLD,Monitor for better entry point
+1248,129500.0,49.2,30,10,9.6,1036.0,AVOID,High risk or poor return potential
+1249,119000.0,68.2,0,30,9.6,952.0,CONSIDER,Value-add opportunity with good potential
+1250,244000.0,58.2,0,10,9.6,1952.0,HOLD,Monitor for better entry point
+1251,171750.0,61.7,15,30,9.6,1374.0,CONSIDER,Value-add opportunity with good potential
+1252,130000.0,59.2,0,10,9.6,1040.0,HOLD,Monitor for better entry point
+1253,294000.0,64.2,0,20,9.6,2352.0,CONSIDER,Value-add opportunity with good potential
+1254,165400.0,66.2,0,30,9.6,1323.2,CONSIDER,Value-add opportunity with good potential
+1255,127500.0,50.2,30,10,9.6,1020.0,HOLD,Monitor for better entry point
+1256,301500.0,54.2,0,0,9.6,2412.0,HOLD,Monitor for better entry point
+1257,99900.0,55.7,45,30,9.600000000000001,799.2,HOLD,Monitor for better entry point
+1258,190000.0,66.2,0,30,9.6,1520.0,CONSIDER,Value-add opportunity with good potential
+1259,151000.0,69.2,0,30,9.6,1208.0,CONSIDER,Value-add opportunity with good potential
+1260,181000.0,60.2,0,15,9.6,1448.0,CONSIDER,Value-add opportunity with good potential
+1261,128900.0,59.2,0,10,9.600000000000001,1031.2,HOLD,Monitor for better entry point
+1262,161500.0,58.2,0,10,9.6,1292.0,HOLD,Monitor for better entry point
+1263,180500.0,50.2,30,10,9.6,1444.0,HOLD,Monitor for better entry point
+1264,181000.0,49.7,15,0,9.6,1448.0,AVOID,High risk or poor return potential
+1265,183900.0,49.7,15,0,9.6,1471.2,AVOID,High risk or poor return potential
+1266,122000.0,48.2,30,10,9.6,976.0,AVOID,High risk or poor return potential
+1267,378500.0,66.2,0,30,9.6,3028.0,CONSIDER,Value-add opportunity with good potential
+1268,381000.0,61.2,30,30,9.6,3048.0,CONSIDER,Value-add opportunity with good potential
+1269,144000.0,58.2,0,10,9.6,1152.0,HOLD,Monitor for better entry point
+1270,260000.0,55.2,0,0,9.6,2080.0,HOLD,Monitor for better entry point
+1271,185750.0,68.2,0,30,9.6,1486.0,CONSIDER,Value-add opportunity with good potential
+1272,137000.0,65.2,0,25,9.6,1096.0,CONSIDER,Value-add opportunity with good potential
+1273,177000.0,68.2,0,30,9.6,1416.0,CONSIDER,Value-add opportunity with good potential
+1274,139000.0,50.2,30,10,9.6,1112.0,HOLD,Monitor for better entry point
+1275,137000.0,58.2,0,10,9.6,1096.0,HOLD,Monitor for better entry point
+1276,162000.0,61.2,0,15,9.6,1296.0,CONSIDER,Value-add opportunity with good potential
+1277,197900.0,64.2,0,25,9.6,1583.2,CONSIDER,Value-add opportunity with good potential
+1278,237000.0,66.2,0,30,9.6,1896.0,CONSIDER,Value-add opportunity with good potential
+1279,68400.0,42.2,50,10,9.6,547.2,AVOID,High risk or poor return potential
+1280,227000.0,66.2,0,30,9.6,1816.0,CONSIDER,Value-add opportunity with good potential
+1281,180000.0,60.2,0,15,9.6,1440.0,CONSIDER,Value-add opportunity with good potential
+1282,150500.0,64.2,0,20,9.6,1204.0,CONSIDER,Value-add opportunity with good potential
+1283,139000.0,54.2,0,0,9.6,1112.0,HOLD,Monitor for better entry point
+1284,169000.0,59.2,30,30,9.6,1352.0,HOLD,Monitor for better entry point
+1285,132500.0,50.2,30,10,9.6,1060.0,HOLD,Monitor for better entry point
+1286,143000.0,58.2,0,10,9.6,1144.0,HOLD,Monitor for better entry point
+1287,190000.0,58.2,0,10,9.6,1520.0,HOLD,Monitor for better entry point
+1288,278000.0,54.2,0,0,9.6,2224.0,HOLD,Monitor for better entry point
+1289,281000.0,66.2,0,30,9.6,2248.0,CONSIDER,Value-add opportunity with good potential
+1290,180500.0,68.2,0,30,9.6,1444.0,CONSIDER,Value-add opportunity with good potential
+1291,119500.0,59.7,15,20,9.6,956.0,HOLD,Monitor for better entry point
+1292,107500.0,48.2,30,10,9.6,860.0,AVOID,High risk or poor return potential
+1293,162900.0,54.2,0,0,9.6,1303.2,HOLD,Monitor for better entry point
+1294,115000.0,68.2,0,30,9.6,920.0,CONSIDER,Value-add opportunity with good potential
+1295,138500.0,58.2,0,10,9.6,1108.0,HOLD,Monitor for better entry point
+1296,155000.0,59.2,0,10,9.6,1240.0,HOLD,Monitor for better entry point
+1297,140000.0,61.7,15,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+1298,160000.0,66.2,0,30,9.6,1280.0,CONSIDER,Value-add opportunity with good potential
+1299,154000.0,68.2,0,30,9.6,1232.0,CONSIDER,Value-add opportunity with good potential
+1300,225000.0,60.2,0,15,9.6,1800.0,CONSIDER,Value-add opportunity with good potential
+1301,177500.0,68.2,0,30,9.6,1420.0,CONSIDER,Value-add opportunity with good potential
+1302,290000.0,54.2,0,0,9.6,2320.0,HOLD,Monitor for better entry point
+1303,232000.0,66.2,0,30,9.6,1856.0,CONSIDER,Value-add opportunity with good potential
+1304,130000.0,61.7,15,30,9.6,1040.0,CONSIDER,Value-add opportunity with good potential
+1305,325000.0,66.2,0,30,9.6,2600.0,CONSIDER,Value-add opportunity with good potential
+1306,202500.0,66.2,0,30,9.6,1620.0,CONSIDER,Value-add opportunity with good potential
+1307,138000.0,54.2,0,0,9.6,1104.0,HOLD,Monitor for better entry point
+1308,147000.0,68.2,0,30,9.6,1176.0,CONSIDER,Value-add opportunity with good potential
+1309,179200.0,54.2,0,0,9.6,1433.6000000000001,HOLD,Monitor for better entry point
+1310,335000.0,69.2,0,30,9.6,2680.0,CONSIDER,Value-add opportunity with good potential
+1311,203000.0,66.2,0,30,9.6,1624.0,CONSIDER,Value-add opportunity with good potential
+1312,302000.0,54.2,0,0,9.6,2416.0,HOLD,Monitor for better entry point
+1313,333168.0,54.2,0,0,9.6,2665.344,HOLD,Monitor for better entry point
+1314,119000.0,59.2,0,10,9.6,952.0,HOLD,Monitor for better entry point
+1315,206900.0,58.2,0,10,9.6,1655.2,HOLD,Monitor for better entry point
+1316,295493.0,66.2,0,30,9.6,2363.944,CONSIDER,Value-add opportunity with good potential
+1317,208900.0,61.7,15,30,9.6,1671.2,CONSIDER,Value-add opportunity with good potential
+1318,275000.0,72.2,0,45,9.6,2200.0,BUY,Solid investment with good risk-adjusted returns
+1319,111000.0,58.2,0,10,9.6,888.0,HOLD,Monitor for better entry point
+1320,156500.0,48.7,25,10,9.6,1252.0,AVOID,High risk or poor return potential
+1321,72500.0,59.2,0,10,9.6,580.0,HOLD,Monitor for better entry point
+1322,190000.0,54.2,0,0,9.6,1520.0,HOLD,Monitor for better entry point
+1323,82500.0,68.2,0,30,9.6,660.0,CONSIDER,Value-add opportunity with good potential
+1324,147000.0,66.2,0,30,9.6,1176.0,CONSIDER,Value-add opportunity with good potential
+1325,55000.0,43.7,45,10,9.6,440.0,AVOID,High risk or poor return potential
+1326,79000.0,45.7,45,10,9.6,632.0,AVOID,High risk or poor return potential
+1327,130500.0,66.2,0,20,9.6,1044.0,CONSIDER,Value-add opportunity with good potential
+1328,256000.0,59.2,30,30,9.6,2048.0,HOLD,Monitor for better entry point
+1329,176500.0,54.2,0,0,9.6,1412.0,HOLD,Monitor for better entry point
+1330,227000.0,66.2,0,30,9.6,1816.0,CONSIDER,Value-add opportunity with good potential
+1331,132500.0,54.2,0,0,9.6,1060.0,HOLD,Monitor for better entry point
+1332,100000.0,50.2,30,10,9.6,800.0,HOLD,Monitor for better entry point
+1333,125500.0,50.2,30,10,9.6,1004.0,HOLD,Monitor for better entry point
+1334,125000.0,50.7,15,0,9.6,1000.0,HOLD,Monitor for better entry point
+1335,167900.0,54.2,0,0,9.6,1343.2,HOLD,Monitor for better entry point
+1336,135000.0,54.2,0,0,9.6,1080.0,HOLD,Monitor for better entry point
+1337,52500.0,52.7,15,10,9.6,420.0,HOLD,Monitor for better entry point
+1338,200000.0,66.2,0,30,9.6,1600.0,CONSIDER,Value-add opportunity with good potential
+1339,128500.0,64.2,0,20,9.6,1028.0,CONSIDER,Value-add opportunity with good potential
+1340,123000.0,54.2,0,0,9.6,984.0,HOLD,Monitor for better entry point
+1341,155000.0,66.2,0,30,9.6,1240.0,CONSIDER,Value-add opportunity with good potential
+1342,228500.0,66.2,0,30,9.6,1828.0,CONSIDER,Value-add opportunity with good potential
+1343,177000.0,50.2,30,10,9.6,1416.0,HOLD,Monitor for better entry point
+1344,155835.0,66.2,0,30,9.6,1246.68,CONSIDER,Value-add opportunity with good potential
+1345,108500.0,48.2,30,10,9.6,868.0,AVOID,High risk or poor return potential
+1346,262500.0,74.2,0,45,9.6,2100.0,BUY,Solid investment with good risk-adjusted returns
+1347,283463.0,66.2,0,30,9.600000000000001,2267.704,CONSIDER,Value-add opportunity with good potential
+1348,215000.0,54.2,0,0,9.6,1720.0,HOLD,Monitor for better entry point
+1349,122000.0,49.2,30,10,9.6,976.0,AVOID,High risk or poor return potential
+1350,200000.0,58.2,0,10,9.6,1600.0,HOLD,Monitor for better entry point
+1351,171000.0,59.2,0,10,9.6,1368.0,HOLD,Monitor for better entry point
+1352,134900.0,61.2,30,30,9.600000000000001,1079.2,CONSIDER,Value-add opportunity with good potential
+1353,410000.0,60.2,0,15,9.6,3280.0,CONSIDER,Value-add opportunity with good potential
+1354,235000.0,54.2,0,0,9.6,1880.0,HOLD,Monitor for better entry point
+1355,170000.0,59.2,0,10,9.6,1360.0,HOLD,Monitor for better entry point
+1356,110000.0,58.2,0,10,9.6,880.0,HOLD,Monitor for better entry point
+1357,149900.0,61.2,0,15,9.600000000000001,1199.2,CONSIDER,Value-add opportunity with good potential
+1358,177500.0,49.7,15,0,9.6,1420.0,AVOID,High risk or poor return potential
+1359,315000.0,66.2,0,30,9.6,2520.0,CONSIDER,Value-add opportunity with good potential
+1360,189000.0,50.2,30,10,9.6,1512.0,HOLD,Monitor for better entry point
+1361,260000.0,66.2,0,30,9.6,2080.0,CONSIDER,Value-add opportunity with good potential
+1362,104900.0,48.2,30,10,9.600000000000001,839.2,AVOID,High risk or poor return potential
+1363,156932.0,66.2,0,30,9.600000000000001,1255.4560000000001,CONSIDER,Value-add opportunity with good potential
+1364,144152.0,61.7,15,30,9.6,1153.2160000000001,CONSIDER,Value-add opportunity with good potential
+1365,216000.0,54.2,0,0,9.6,1728.0,HOLD,Monitor for better entry point
+1366,193000.0,54.2,0,0,9.6,1544.0,HOLD,Monitor for better entry point
+1367,127000.0,50.7,15,0,9.6,1016.0,HOLD,Monitor for better entry point
+1368,144000.0,61.7,15,30,9.6,1152.0,CONSIDER,Value-add opportunity with good potential
+1369,232000.0,66.2,0,30,9.6,1856.0,CONSIDER,Value-add opportunity with good potential
+1370,105000.0,50.2,30,10,9.6,840.0,HOLD,Monitor for better entry point
+1371,165500.0,59.2,0,10,9.6,1324.0,HOLD,Monitor for better entry point
+1372,274300.0,55.2,0,0,9.600000000000001,2194.4,HOLD,Monitor for better entry point
+1373,466500.0,66.2,0,30,9.6,3732.0,CONSIDER,Value-add opportunity with good potential
+1374,250000.0,66.2,0,30,9.6,2000.0,CONSIDER,Value-add opportunity with good potential
+1375,239000.0,66.2,0,30,9.6,1912.0,CONSIDER,Value-add opportunity with good potential
+1376,91000.0,49.2,30,10,9.6,728.0,AVOID,High risk or poor return potential
+1377,117000.0,58.2,0,10,9.6,936.0,HOLD,Monitor for better entry point
+1378,83000.0,49.7,15,0,9.6,664.0,AVOID,High risk or poor return potential
+1379,167500.0,66.2,0,30,9.6,1340.0,CONSIDER,Value-add opportunity with good potential
+1380,58500.0,39.7,55,10,9.6,468.0,AVOID,High risk or poor return potential
+1381,237500.0,64.2,0,20,9.6,1900.0,CONSIDER,Value-add opportunity with good potential
+1382,157000.0,59.2,30,30,9.6,1256.0,HOLD,Monitor for better entry point
+1383,112000.0,59.2,30,30,9.6,896.0,HOLD,Monitor for better entry point
+1384,105000.0,49.2,30,10,9.6,840.0,AVOID,High risk or poor return potential
+1385,125500.0,60.2,30,30,9.6,1004.0,CONSIDER,Value-add opportunity with good potential
+1386,250000.0,54.2,0,0,9.6,2000.0,HOLD,Monitor for better entry point
+1387,136000.0,59.2,30,30,9.6,1088.0,HOLD,Monitor for better entry point
+1388,377500.0,72.2,0,45,9.6,3020.0,BUY,Solid investment with good risk-adjusted returns
+1389,131000.0,59.2,0,10,9.6,1048.0,HOLD,Monitor for better entry point
+1390,235000.0,54.2,0,0,9.6,1880.0,HOLD,Monitor for better entry point
+1391,124000.0,58.2,0,10,9.6,992.0,HOLD,Monitor for better entry point
+1392,123000.0,58.2,0,10,9.6,984.0,HOLD,Monitor for better entry point
+1393,163000.0,59.2,30,30,9.6,1304.0,HOLD,Monitor for better entry point
+1394,246578.0,61.7,15,30,9.6,1972.624,CONSIDER,Value-add opportunity with good potential
+1395,281213.0,66.2,0,30,9.600000000000001,2249.704,CONSIDER,Value-add opportunity with good potential
+1396,160000.0,58.2,0,10,9.6,1280.0,HOLD,Monitor for better entry point
+1397,137500.0,60.2,30,30,9.6,1100.0,CONSIDER,Value-add opportunity with good potential
+1398,138000.0,57.2,0,10,9.6,1104.0,HOLD,Monitor for better entry point
+1399,137450.0,50.2,30,10,9.6,1099.6000000000001,HOLD,Monitor for better entry point
+1400,120000.0,59.2,30,30,9.6,960.0,HOLD,Monitor for better entry point
+1401,193000.0,66.2,0,30,9.6,1544.0,CONSIDER,Value-add opportunity with good potential
+1402,193879.0,66.2,0,30,9.6,1551.032,CONSIDER,Value-add opportunity with good potential
+1403,282922.0,72.2,0,45,9.6,2263.376,BUY,Solid investment with good risk-adjusted returns
+1404,105000.0,48.2,30,10,9.6,840.0,AVOID,High risk or poor return potential
+1405,275000.0,61.7,15,30,9.6,2200.0,CONSIDER,Value-add opportunity with good potential
+1406,133000.0,64.2,0,20,9.6,1064.0,CONSIDER,Value-add opportunity with good potential
+1407,112000.0,54.2,0,0,9.6,896.0,HOLD,Monitor for better entry point
+1408,125500.0,59.2,30,30,9.6,1004.0,HOLD,Monitor for better entry point
+1409,215000.0,61.2,0,15,9.6,1720.0,CONSIDER,Value-add opportunity with good potential
+1410,230000.0,66.2,0,30,9.6,1840.0,CONSIDER,Value-add opportunity with good potential
+1411,140000.0,69.2,0,30,9.6,1120.0,CONSIDER,Value-add opportunity with good potential
+1412,90000.0,58.2,0,10,9.6,720.0,HOLD,Monitor for better entry point
+1413,257000.0,66.2,0,30,9.6,2056.0,CONSIDER,Value-add opportunity with good potential
+1414,207000.0,59.2,30,30,9.6,1656.0,HOLD,Monitor for better entry point
+1415,175900.0,61.7,15,30,9.6,1407.2,CONSIDER,Value-add opportunity with good potential
+1416,122500.0,50.2,30,10,9.6,980.0,HOLD,Monitor for better entry point
+1417,340000.0,54.2,0,0,9.6,2720.0,HOLD,Monitor for better entry point
+1418,124000.0,58.2,0,10,9.6,992.0,HOLD,Monitor for better entry point
+1419,223000.0,58.2,0,10,9.6,1784.0,HOLD,Monitor for better entry point
+1420,179900.0,59.2,0,10,9.6,1439.2,HOLD,Monitor for better entry point
+1421,127500.0,49.7,15,0,9.6,1020.0,AVOID,High risk or poor return potential
+1422,136500.0,61.7,15,30,9.6,1092.0,CONSIDER,Value-add opportunity with good potential
+1423,274970.0,74.2,0,45,9.600000000000001,2199.76,BUY,Solid investment with good risk-adjusted returns
+1424,144000.0,58.2,0,10,9.6,1152.0,HOLD,Monitor for better entry point
+1425,142000.0,59.2,0,10,9.6,1136.0,HOLD,Monitor for better entry point
+1426,271000.0,54.2,0,0,9.6,2168.0,HOLD,Monitor for better entry point
+1427,140000.0,59.2,0,10,9.6,1120.0,HOLD,Monitor for better entry point
+1428,119000.0,68.2,0,30,9.6,952.0,CONSIDER,Value-add opportunity with good potential
+1429,182900.0,64.2,0,20,9.6,1463.2,CONSIDER,Value-add opportunity with good potential
+1430,192140.0,66.2,0,30,9.600000000000001,1537.1200000000001,CONSIDER,Value-add opportunity with good potential
+1431,143750.0,50.7,15,0,9.6,1150.0,HOLD,Monitor for better entry point
+1432,64500.0,50.2,30,10,9.6,516.0,HOLD,Monitor for better entry point
+1433,186500.0,54.2,0,0,9.6,1492.0,HOLD,Monitor for better entry point
+1434,160000.0,54.2,0,0,9.6,1280.0,HOLD,Monitor for better entry point
+1435,174000.0,70.2,0,30,9.6,1392.0,BUY,Solid investment with good risk-adjusted returns
+1436,120500.0,55.2,0,0,9.6,964.0,HOLD,Monitor for better entry point
+1437,394617.0,66.2,0,30,9.600000000000001,3156.936,CONSIDER,Value-add opportunity with good potential
+1438,149700.0,68.2,0,30,9.6,1197.6000000000001,CONSIDER,Value-add opportunity with good potential
+1439,197000.0,55.2,0,0,9.6,1576.0,HOLD,Monitor for better entry point
+1440,191000.0,59.2,30,30,9.6,1528.0,HOLD,Monitor for better entry point
+1441,149300.0,61.7,15,30,9.6,1194.4,CONSIDER,Value-add opportunity with good potential
+1442,310000.0,66.2,0,30,9.6,2480.0,CONSIDER,Value-add opportunity with good potential
+1443,121000.0,50.2,30,10,9.6,968.0,HOLD,Monitor for better entry point
+1444,179600.0,66.2,0,30,9.6,1436.8,CONSIDER,Value-add opportunity with good potential
+1445,129000.0,58.2,0,10,9.6,1032.0,HOLD,Monitor for better entry point
+1446,157900.0,74.2,0,45,9.600000000000001,1263.2,BUY,Solid investment with good risk-adjusted returns
+1447,240000.0,54.2,0,0,9.6,1920.0,HOLD,Monitor for better entry point
+1448,112000.0,59.2,30,30,9.6,896.0,HOLD,Monitor for better entry point
+1449,92000.0,59.7,15,20,9.6,736.0,HOLD,Monitor for better entry point
+1450,136000.0,54.2,0,0,9.6,1088.0,HOLD,Monitor for better entry point
+1451,287090.0,66.2,0,30,9.600000000000001,2296.7200000000003,CONSIDER,Value-add opportunity with good potential
+1452,145000.0,61.7,15,30,9.6,1160.0,CONSIDER,Value-add opportunity with good potential
+1453,84500.0,66.2,0,30,9.6,676.0,CONSIDER,Value-add opportunity with good potential
+1454,185000.0,66.2,0,30,9.6,1480.0,CONSIDER,Value-add opportunity with good potential
+1455,175000.0,54.2,0,0,9.6,1400.0,HOLD,Monitor for better entry point
+1456,210000.0,55.2,0,0,9.6,1680.0,HOLD,Monitor for better entry point
+1457,266500.0,70.2,0,30,9.6,2132.0,BUY,Solid investment with good risk-adjusted returns
+1458,142125.0,59.2,0,10,9.6,1137.0,HOLD,Monitor for better entry point
+1459,147500.0,59.2,0,10,9.6,1180.0,HOLD,Monitor for better entry point

@@ -1,0 +1,7 @@
+,SalePrice,SalePrice,Investment_Score,Risk_Score,ROI_Potential
+,count,mean,mean,mean,mean
+Recommendation,,,,,
+AVOID,130,113599.09,47.51,28.88,6.46
+BUY,43,246893.49,72.01,0.0,40.81
+CONSIDER,596,212424.8,65.19,3.7,28.08
+HOLD,691,162308.92,56.05,6.24,8.08
