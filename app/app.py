@@ -1,6 +1,6 @@
 """
 Real Estate Valuation & Investment Analyzer
-Professional Streamlit Dashboard
+Professional Streamlit Dashboard - Production Ready
 """
 
 import streamlit as st
@@ -17,6 +17,15 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ============================================
+# PATH CONFIGURATION FOR DEPLOYMENT
+# ============================================
+
+# Get the base directory (works both locally and on Streamlit Cloud)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(BASE_DIR, 'data', 'processed')
+MODELS_DIR = os.path.join(BASE_DIR, 'models')
+
+# ============================================
 # PAGE CONFIGURATION
 # ============================================
 st.set_page_config(
@@ -31,15 +40,12 @@ st.set_page_config(
 # ============================================
 st.markdown("""
     <style>
-    /* Import Google Fonts */
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
     
-    /* Global Styles */
     .stApp {
         font-family: 'Inter', sans-serif;
     }
     
-    /* Main Header */
     .main-header {
         font-size: 2.8rem;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -53,7 +59,6 @@ st.markdown("""
         letter-spacing: -0.5px;
     }
     
-    /* Sub Header */
     .sub-header {
         font-size: 1.8rem;
         font-weight: 600;
@@ -64,7 +69,6 @@ st.markdown("""
         display: inline-block;
     }
     
-    /* Metric Cards */
     .metric-card {
         background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
         border-radius: 1rem;
@@ -101,7 +105,6 @@ st.markdown("""
         margin-bottom: 0.5rem;
     }
     
-    /* Recommendation Cards */
     .recommendation-buy {
         background: linear-gradient(135deg, #10b981 0%, #059669 100%);
         padding: 0.75rem;
@@ -142,12 +145,6 @@ st.markdown("""
         box-shadow: 0 4px 10px rgba(239, 68, 68, 0.3);
     }
     
-    /* Sidebar Styling */
-    .css-1d391kg {
-        background: linear-gradient(180deg, #f8f9fa 0%, #ffffff 100%);
-    }
-    
-    /* Button Styling */
     .stButton > button {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
@@ -164,16 +161,6 @@ st.markdown("""
         box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
     }
     
-    /* Chart Container */
-    .chart-container {
-        background: white;
-        border-radius: 1rem;
-        padding: 1rem;
-        box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        margin: 1rem 0;
-    }
-    
-    /* Footer */
     .footer {
         text-align: center;
         padding: 2rem;
@@ -182,52 +169,31 @@ st.markdown("""
         border-top: 1px solid #e5e7eb;
         margin-top: 2rem;
     }
-    
-    /* Tab Styling */
-    .stTabs [data-baseweb="tab-list"] {
-        gap: 1rem;
-        background-color: #f3f4f6;
-        padding: 0.5rem;
-        border-radius: 1rem;
-    }
-    
-    .stTabs [data-baseweb="tab"] {
-        border-radius: 0.5rem;
-        padding: 0.5rem 1rem;
-        font-weight: 600;
-    }
-    
-    /* Metric Container */
-    .metric-container {
-        background: white;
-        border-radius: 1rem;
-        padding: 1rem;
-        margin: 0.5rem 0;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-    }
     </style>
 """, unsafe_allow_html=True)
 
 # ============================================
 # LOAD DATA AND MODELS
 # ============================================
+
 @st.cache_data
 def load_data():
     """Load all processed data"""
     try:
-        df = pd.read_csv('data/processed/processed_training_data.csv')
-        investment_df = pd.read_csv('data/processed/investment_analysis.csv')
+        df = pd.read_csv(os.path.join(DATA_DIR, 'processed_training_data.csv'))
+        investment_df = pd.read_csv(os.path.join(DATA_DIR, 'investment_analysis.csv'))
         return df, investment_df
     except Exception as e:
         st.error(f"❌ Error loading data: {e}")
+        st.info("Make sure you have run all notebooks to generate the data files.")
         return None, None
 
 @st.cache_resource
 def load_models():
     """Load trained models"""
     try:
-        model = joblib.load('models/investment_model.pkl')
-        scaler = joblib.load('models/scaler.pkl')
+        model = joblib.load(os.path.join(MODELS_DIR, 'investment_model.pkl'))
+        scaler = joblib.load(os.path.join(MODELS_DIR, 'scaler.pkl'))
         return model, scaler
     except Exception as e:
         return None, None
@@ -237,7 +203,6 @@ df, investment_df = load_data()
 model, scaler = load_models()
 
 if df is None:
-    st.error("⚠️ Please run all notebooks first to generate the required data files.")
     st.stop()
 
 # ============================================
@@ -254,11 +219,11 @@ with st.sidebar:
     
     st.markdown("---")
     
-    # Navigation with icons
+    # Navigation - FIXED: Added label with visibility collapsed
     page = st.radio(
-        "",
+        "Navigation",
         ["📊 Dashboard", "🔍 Property Analyzer", "💰 Portfolio Optimizer", "📈 Market Insights", "📄 Investment Report"],
-        format_func=lambda x: x
+        label_visibility="collapsed"
     )
     
     st.markdown("---")
@@ -329,40 +294,40 @@ if page == "📊 Dashboard":
     col1, col2, col3, col4 = st.columns(4)
     
     with col1:
-        st.markdown("""
+        st.markdown(f"""
             <div class="metric-card">
                 <div class="metric-icon">🏘️</div>
                 <div class="metric-label">Total Properties</div>
-                <div class="metric-value">{:,}</div>
+                <div class="metric-value">{len(filtered_df):,}</div>
             </div>
-        """.format(len(filtered_df)), unsafe_allow_html=True)
+        """, unsafe_allow_html=True)
     
     with col2:
-        st.markdown("""
+        st.markdown(f"""
             <div class="metric-card">
                 <div class="metric-icon">💰</div>
                 <div class="metric-label">Average Price</div>
-                <div class="metric-value">${:,.0f}</div>
+                <div class="metric-value">${filtered_df['SalePrice'].mean():,.0f}</div>
             </div>
-        """.format(filtered_df['SalePrice'].mean()), unsafe_allow_html=True)
+        """, unsafe_allow_html=True)
     
     with col3:
-        st.markdown("""
+        st.markdown(f"""
             <div class="metric-card">
                 <div class="metric-icon">⭐</div>
                 <div class="metric-label">Avg Investment Score</div>
-                <div class="metric-value">{:.1f}/100</div>
+                <div class="metric-value">{filtered_investment['Investment_Score'].mean():.1f}/100</div>
             </div>
-        """.format(filtered_investment['Investment_Score'].mean()), unsafe_allow_html=True)
+        """, unsafe_allow_html=True)
     
     with col4:
-        st.markdown("""
+        st.markdown(f"""
             <div class="metric-card">
                 <div class="metric-icon">📈</div>
                 <div class="metric-label">Avg ROI Potential</div>
-                <div class="metric-value">{:.1f}%</div>
+                <div class="metric-value">{filtered_investment['ROI_Potential'].mean():.1f}%</div>
             </div>
-        """.format(filtered_investment['ROI_Potential'].mean()), unsafe_allow_html=True)
+        """, unsafe_allow_html=True)
     
     st.markdown("---")
     
@@ -499,13 +464,15 @@ elif page == "🔍 Property Analyzer":
     with col1:
         st.markdown('<p class="sub-header">Select Property</p>', unsafe_allow_html=True)
         property_options = filtered_df.index.tolist()
-        selected_property = st.selectbox("", property_options, format_func=lambda x: f"Property #{x}")
+        selected_property = st.selectbox("", property_options, format_func=lambda x: f"Property #{x}", label_visibility="collapsed")
         
         if selected_property is not None:
             prop_data = filtered_df.loc[selected_property]
-            inv_data = filtered_investment[filtered_investment['Property_Index'] == selected_property].iloc[0] if len(filtered_investment[filtered_investment['Property_Index'] == selected_property]) > 0 else None
+            inv_data = filtered_investment[filtered_investment['Property_Index'] == selected_property]
             
-            if inv_data is not None:
+            if len(inv_data) > 0:
+                inv_data = inv_data.iloc[0]
+                
                 st.markdown("---")
                 st.markdown('<p class="sub-header">📋 Property Details</p>', unsafe_allow_html=True)
                 
@@ -666,7 +633,6 @@ elif page == "💰 Portfolio Optimizer":
         display_df['Price'] = display_df['Price'].apply(lambda x: f"${x:,.0f}")
         display_df['ROI Potential'] = display_df['ROI Potential'].apply(lambda x: f"{x:.1f}%")
         
-        # Styled dataframe
         st.dataframe(display_df.style.background_gradient(subset=['Investment Score'], cmap='RdYlGn'), use_container_width=True)
         
         # Portfolio visualization
@@ -738,7 +704,7 @@ elif page == "📈 Market Insights":
     with col2:
         st.markdown('<p class="sub-header">📊 Feature Correlation Heatmap</p>', unsafe_allow_html=True)
         
-        numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()[:10]  # Top 10 for readability
+        numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()[:10]
         corr_matrix = df[numeric_cols].corr()
         
         fig = px.imshow(
@@ -783,7 +749,6 @@ elif page == "📄 Investment Report":
     display_top['Gross_Yield'] = display_top['Gross_Yield'].apply(lambda x: f"{x:.2f}%")
     display_top.columns = ['Property', 'Price', 'Investment Score', 'Risk Score', 'ROI Potential', 'Gross Yield', 'Recommendation']
     
-    # Apply styling
     st.dataframe(display_top.style.background_gradient(subset=['Investment Score'], cmap='RdYlGn'), use_container_width=True)
     
     st.markdown("---")
